@@ -2,4 +2,4 @@ A (curated) collection of sources.
 
 ## How to
 
-Grab the `my-feeds.opml` feeds list and import it in your favorite RSS reader.
+Grab the [feeds list](https://github.com/amerlo94/feeds/blob/master/feeds.opml) and import it in your favorite RSS reader.
