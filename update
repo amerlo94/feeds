@@ -4,11 +4,11 @@
 git add -A
 
 # Commit changes.
-msg=":memo: Update: `date`"
+msg=":memo: Update: $(date +"%Y-%m-%d %H:%M:%S")"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
-git commit -m "$msg"
+git commit -q -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push -q origin master
