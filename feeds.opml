@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Sun Feb 21 09:41:11 2021</dateModified>
+        <dateModified>Sat Feb 27 15:03:38 2021</dateModified>
     </head>
     <body>
         <outline text="Alternative">
@@ -23,6 +23,9 @@
             </outline>
             <outline text="Research">
                 <outline text="A Happy PhD" type="rss" htmlUrl="http://ahappyphd.org/" xmlUrl="https://ahappyphd.org/index.xml"/>
+                <outline text="Terence Tao - What's new" type="rss" htmlUrl="https://terrytao.wordpress.com" xmlUrl="https://terrytao.wordpress.com/feed/"/>
+                <outline text="Dan Luu" type="rss" htmlUrl="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml"/>
+                <outline text="Shtetl-Optimized" type="rss" htmlUrl="https://www.scottaaronson.com/blog" xmlUrl="https://www.scottaaronson.com/blog/?feed=rss2"/>
             </outline>
             <outline text="Thinking">
                 <outline text="Astral Codex Ten" type="rss" htmlUrl="https://astralcodexten.substack.com" xmlUrl="https://astralcodexten.substack.com/feed"/>
