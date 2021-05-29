@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Sat Feb 27 15:03:38 2021</dateModified>
+        <dateModified>Sat May 29 20:25:52 2021</dateModified>
     </head>
     <body>
         <outline text="Alternative">
@@ -23,15 +23,18 @@
             </outline>
             <outline text="Research">
                 <outline text="A Happy PhD" type="rss" htmlUrl="http://ahappyphd.org/" xmlUrl="https://ahappyphd.org/index.xml"/>
-                <outline text="Terence Tao - What's new" type="rss" htmlUrl="https://terrytao.wordpress.com" xmlUrl="https://terrytao.wordpress.com/feed/"/>
                 <outline text="Dan Luu" type="rss" htmlUrl="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml"/>
                 <outline text="Shtetl-Optimized" type="rss" htmlUrl="https://www.scottaaronson.com/blog" xmlUrl="https://www.scottaaronson.com/blog/?feed=rss2"/>
+                <outline text="Terence Tao - What's new" type="rss" htmlUrl="https://terrytao.wordpress.com" xmlUrl="https://terrytao.wordpress.com/feed/"/>
             </outline>
             <outline text="Thinking">
                 <outline text="Astral Codex Ten" type="rss" htmlUrl="https://astralcodexten.substack.com" xmlUrl="https://astralcodexten.substack.com/feed"/>
                 <outline text="Farnam Street" type="rss" htmlUrl="https://fs.blog" xmlUrl="http://feeds.feedburner.com/68131"/>
                 <outline text="LessWrong" type="rss" htmlUrl="https://www.lesswrong.com" xmlUrl="https://www.lesswrong.com/feed.xml?view=curated-rss"/>
             </outline>
+        </outline>
+        <outline text="Business">
+            <outline text="deutsche-startups.de" type="rss" htmlUrl="https://www.deutsche-startups.de" xmlUrl="https://www.deutsche-startups.de/feed/"/>
         </outline>
         <outline text="Computing">
             <outline text="AI">
@@ -117,6 +120,7 @@
             <outline text="Newly published GiveWell materials" type="rss" htmlUrl="https://groups.google.com/d/forum/newly-published-givewell-materials" xmlUrl="https://groups.google.com/group/newly-published-givewell-materials/feed/rss_v2_0_msgs.xml"/>
             <outline text="The Blog – The Borgen Project" type="rss" htmlUrl="https://borgenproject.org" xmlUrl="https://borgenproject.org/blog/feed/"/>
             <outline text="The GiveWell Blog" type="rss" htmlUrl="https://blog.givewell.org" xmlUrl="https://blog.givewell.org/feed/"/>
+            <outline text="Our World in Data" type="rss" htmlUrl="https://ourworldindata.org" xmlUrl="https://ourworldindata.org/feed"/>
         </outline>
         <outline text="Law">
             <outline text="International Law">
@@ -128,16 +132,12 @@
             </outline>
         </outline>
         <outline text="News">
-            <outline text="Articles and Investigations - ProPublica" type="rss" htmlUrl="https://www.propublica.org/feeds/54Ghome" xmlUrl="http://feeds.propublica.org/propublica/main"/>
-            <outline text="ARTICOLI in evidenza" type="rss" htmlUrl="https://sinistrainrete.info/" xmlUrl="https://sinistrainrete.info/index.php?format=feed&amp;type=rss"/>
-            <outline text="Deutsche Welle" type="rss" htmlUrl="http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
-            <outline text="Le Monde.fr - Actualités et Infos en France et dans le monde" type="rss" htmlUrl="https://www.lemonde.fr/rss/une.xml" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
-            <outline text="The Economist: The world this week" type="rss" htmlUrl="https://www.economist.com/the-world-this-week/" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml"/>
             <outline text="Italy">
                 <outline text="ANSA.it" type="rss" htmlUrl="http://www.ansa.it/" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml"/>
                 <outline text="Fanpage" type="rss" htmlUrl="https://www.fanpage.it" xmlUrl="https://www.fanpage.it/feed/"/>
                 <outline text="La Repubblica.it - Homepage" type="rss" htmlUrl="https://www.repubblica.it" xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml"/>
                 <outline text="Sbilanciamoci – L’economia com’è e come può essere. Per un’Italia capace di futuro" type="rss" htmlUrl="https://sbilanciamoci.info" xmlUrl="https://sbilanciamoci.info/feed/"/>
+                <outline text="ARTICOLI in evidenza" type="rss" htmlUrl="https://sinistrainrete.info/" xmlUrl="https://sinistrainrete.info/index.php?format=feed&amp;type=rss"/>
             </outline>
             <outline text="US, UK, World">
                 <outline text="BBC News" type="rss" htmlUrl="https://www.bbc.co.uk/news/" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
@@ -147,6 +147,14 @@
                 <outline text="NYT &gt; World News" type="rss" htmlUrl="https://www.nytimes.com/section/world" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml"/>
                 <outline text="POLITICO" type="rss" htmlUrl="https://www.politico.eu" xmlUrl="https://www.politico.eu/feed/"/>
                 <outline text="Reveal » Reveal" type="rss" htmlUrl="https://revealnews.org" xmlUrl="https://www.revealnews.org/feed/"/>
+                <outline text="Articles and Investigations - ProPublica" type="rss" htmlUrl="https://www.propublica.org/feeds/54Ghome" xmlUrl="http://feeds.propublica.org/propublica/main"/>
+                <outline text="The Economist: The world this week" type="rss" htmlUrl="https://www.economist.com/the-world-this-week/" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml"/>
+                <outline text="Le Monde.fr - Actualités et Infos en France et dans le monde" type="rss" htmlUrl="https://www.lemonde.fr/rss/une.xml" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
+            </outline>
+            <outline text="Germany">
+                <outline text="DER SPIEGEL - Schlagzeilen" type="rss" htmlUrl="https://www.spiegel.de/" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss"/>
+                <outline text="taz.de - Artikel aus der Onlineausgabe" type="rss" htmlUrl="http://www.taz.de/Archiv-Suche/!5749522&amp;s=/" xmlUrl="https://taz.de/!s=&amp;ExportStatus=Intern&amp;SuchRahmen=Online;rss/"/>
+                <outline text="Deutsche Welle" type="rss" htmlUrl="http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
             </outline>
         </outline>
         <outline text="News+">
@@ -155,7 +163,8 @@
                 <outline text="ICIJ" type="rss" htmlUrl="https://www.icij.org" xmlUrl="https://www.icij.org/feed"/>
             </outline>
             <outline text="In German">
-                <outline text="taz.de - Artikel aus der Onlineausgabe" type="rss" htmlUrl="http://www.taz.de/Archiv-Suche/!5751906&amp;s=/" xmlUrl="https://taz.de/!s=&amp;ExportStatus=Intern&amp;SuchRahmen=Online;rss/"/>
+                <outline text="Telepolis" type="rss" htmlUrl="https://www.heise.de/tp/" xmlUrl="http://www.heise.de/tp/news-atom.xml"/>
+                <outline text="netzpolitik.org" type="rss" htmlUrl="https://netzpolitik.org" xmlUrl="https://netzpolitik.org/feed"/>
             </outline>
             <outline text="In Italian">
                 <outline text="Gli Stati Generali" type="rss" htmlUrl="https://www.glistatigenerali.com" xmlUrl="https://www.glistatigenerali.com/feed/"/>
@@ -250,6 +259,7 @@
             <outline text="Hacker News Best" type="rss" htmlUrl="https://news.ycombinator.com/best" xmlUrl="http://hnbest.herokuapp.com/rss"/>
             <outline text="The Verge" type="rss" htmlUrl="https://www.theverge.com/" xmlUrl="https://www.theverge.com/rss/index.xml"/>
             <outline text="Wired" type="rss" htmlUrl="https://www.wired.com/latest" xmlUrl="https://www.wired.com/feed"/>
+            <outline text="Deeplinks" type="rss" htmlUrl="https://www.eff.org/rss/updates.xml" xmlUrl="https://www.eff.org/rss/updates.xml"/>
         </outline>
     </body>
 </opml>
