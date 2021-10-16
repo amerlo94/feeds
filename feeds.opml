@@ -98,6 +98,9 @@
     </outline>
     <outline text="Energy" title="Energy">
       <outline text="EnergyPost.eu" title="EnergyPost.eu" type="rss" xmlUrl="https://energypost.eu/feed/" htmlUrl="https://energypost.eu/"/>
+      <outline text="IAEA Top News RSS Feed" title="IAEA Top News RSS Feed" type="rss" xmlUrl="https://www.iaea.org/feeds/topnews" htmlUrl="https://www.iaea.org/"/>
+      <outline text="Nuclear Fusion" title="Nuclear Fusion" type="rss" xmlUrl="https://www.reddit.com/r/fusion/.rss" htmlUrl="https://www.reddit.com/r/fusion/"/>
+      <outline text="&quot;&quot;nuclear fusion&quot; -fission&quot; - Google News" title="&quot;&quot;nuclear fusion&quot; -fission&quot; - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=%22nuclear%20fusion%22%20-fission&amp;hl=en" htmlUrl="https://news.google.com/search?q=%22nuclear+fusion%22+-fission&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
       <outline text="Forbes - Energy" title="Forbes - Energy" type="rss" xmlUrl="https://www.forbes.com/energy/feed/" htmlUrl="http://www.forbes.com/energy/"/>
     </outline>
     <outline text="Food" title="Food">
@@ -127,6 +130,7 @@
       <outline text="VoxEU.org: Recent Articles" title="VoxEU.org: Recent Articles" type="rss" xmlUrl="https://voxeu.org/feed/recent/rss.xml" htmlUrl="https://voxeu.org/"/>
       <outline text="Fast Company" title="Fast Company" type="rss" xmlUrl="http://www.fastcompany.com/rss.xml" htmlUrl="http://www.fastcompany.com//www.fastcompany.com"/>
       <outline text="Il Sole 24 ORE -  Finanza" title="Il Sole 24 ORE -  Finanza" type="rss" xmlUrl="https://www.ilsole24ore.com/rss/finanza--quotate-italia.xml" htmlUrl="https://www.ilsole24ore.com/"/>
+      <outline text="The Economist: The world this week" title="The Economist: The world this week" type="rss" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml" htmlUrl="http://www.economist.com/"/>
     </outline>
     <outline text="Germany" title="Germany">
       <outline text="DER SPIEGEL - Schlagzeilen" title="DER SPIEGEL - Schlagzeilen" type="rss" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss" htmlUrl="http://www.spiegel.de/"/>
@@ -154,7 +158,6 @@
       <outline text="NYT &gt; World News" title="NYT &gt; World News" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss"/>
       <outline text="POLITICO" title="POLITICO" type="rss" xmlUrl="https://www.politico.eu/feed/" htmlUrl="https://www.politico.eu/"/>
       <outline text="Reveal » Reveal" title="Reveal » Reveal" type="rss" xmlUrl="https://www.revealnews.org/feed/" htmlUrl="https://www.revealnews.org/"/>
-      <outline text="The Economist: The world this week" title="The Economist: The world this week" type="rss" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml" htmlUrl="http://www.economist.com/"/>
       <outline text="Le Monde.fr - Actualités et Infos en France et dans le monde" title="Le Monde.fr - Actualités et Infos en France et dans le monde" type="rss" xmlUrl="https://www.lemonde.fr/rss/une.xml" htmlUrl="http://www.lemonde.fr/rss/une.xml"/>
       <outline text="FiveThirtyEight » Features | FiveThirtyEight" title="FiveThirtyEight » Features | FiveThirtyEight" type="rss" xmlUrl="https://fivethirtyeight.com/features/feed/" htmlUrl="http://fivethirtyeight.com/"/>
       <outline text="ICIJ" title="ICIJ" type="rss" xmlUrl="https://www.icij.org/feed" htmlUrl="https://www.icij.org/"/>
