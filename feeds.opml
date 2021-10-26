@@ -2,17 +2,9 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Sun Oct 17 09:19:20 2021</dateModified>
+        <dateModified>Tue Oct 26 23:34:24 2021</dateModified>
     </head>
     <body>
-        <outline text="Weekly">
-            <outline text="BBC News - World" type="rss" htmlUrl="https://www.bbc.co.uk/news/" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
-            <outline text="Paul Graham: Essays" type="rss" htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
-            <outline text="The Giving What We Can Blog" type="rss" htmlUrl="https://www.givingwhatwecan.org" xmlUrl="https://www.givingwhatwecan.org/blog.xml"/>
-            <outline text="Effective Altruism Forum" type="rss" htmlUrl="https://forum.effectivealtruism.org" xmlUrl="https://forum.effectivealtruism.org/feed.xml?view=frontpage-rss&amp;karmaThreshold=45"/>
-            <outline text="80,000 Hours" type="rss" htmlUrl="https://80000hours.org" xmlUrl="https://80000hours.org/feed/atom/"/>
-            <outline text="The GiveWell Blog" type="rss" htmlUrl="https://blog.givewell.org" xmlUrl="https://blog.givewell.org/feed/"/>
-        </outline>
         <outline text="Research Feed">
             <outline text="Nuclear Fusion - latest papers" type="rss" htmlUrl="http://iopscience.iop.org/journal/rss/0029-5515" xmlUrl="http://iopscience.iop.org/journal/rss/0029-5515"/>
             <outline text="stat.ML updates on arXiv.org" type="rss" htmlUrl="http://arxiv.org/" xmlUrl="http://arxiv.org/rss/stat.ML"/>
@@ -27,12 +19,15 @@
             <outline text="ROARS" type="rss" htmlUrl="https://www.roars.it/online" xmlUrl="https://www.roars.it/online/rss"/>
         </outline>
         <outline text="Thinking">
+            <outline text="Paul Graham: Essays" type="rss" htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
+            <outline text="Gwern.net Newsletter" type="rss" htmlUrl="https://gwern.substack.com" xmlUrl="https://gwern.substack.com/feed/"/>
             <outline text="The Blog of Author Tim Ferriss » Blog" type="rss" htmlUrl="https://tim.blog" xmlUrl="http://feeds.feedburner.com/TimFerriss"/>
             <outline text="Roam Newsletter" type="rss" htmlUrl="https://roamresearch.substack.com" xmlUrl="https://roamresearch.substack.com/feed"/>
             <outline text="Astral Codex Ten" type="rss" htmlUrl="https://astralcodexten.substack.com" xmlUrl="https://astralcodexten.substack.com/feed"/>
             <outline text="Farnam Street" type="rss" htmlUrl="https://fs.blog" xmlUrl="http://feeds.feedburner.com/68131"/>
             <outline text="LessWrong" type="rss" htmlUrl="https://www.lesswrong.com" xmlUrl="https://www.lesswrong.com/feed.xml?view=curated-rss"/>
             <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/pets" xmlUrl="https://sive.rs/en.atom"/>
+            <outline text="The Technium" type="rss" htmlUrl="https://kk.org/thetechnium" xmlUrl="https://feedpress.me/TheTechnium"/>
         </outline>
         <outline text="Italy">
             <outline text="Altreconomia" type="rss" htmlUrl="https://altreconomia.it" xmlUrl="https://altreconomia.it/rss"/>
@@ -63,6 +58,10 @@
             <outline text="Rivista il Mulino" type="rss" htmlUrl="http://www.rivistailmulino.it" xmlUrl="http://www.rivistailmulino.it/rss/all"/>
         </outline>
         <outline text="Impact">
+            <outline text="80,000 Hours" type="rss" htmlUrl="https://80000hours.org" xmlUrl="https://80000hours.org/feed/atom/"/>
+            <outline text="Effective Altruism Forum" type="rss" htmlUrl="https://forum.effectivealtruism.org" xmlUrl="https://forum.effectivealtruism.org/feed.xml?view=frontpage-rss&amp;karmaThreshold=45"/>
+            <outline text="The Giving What We Can Blog" type="rss" htmlUrl="https://www.givingwhatwecan.org" xmlUrl="https://www.givingwhatwecan.org/blog.xml"/>
+            <outline text="The GiveWell Blog" type="rss" htmlUrl="https://blog.givewell.org" xmlUrl="https://blog.givewell.org/feed/"/>
             <outline text="Gates Open Research" type="rss" htmlUrl="http://gatesopenresearch.org" xmlUrl="https://gatesopenresearch.org/published/rss"/>
             <outline text="Blog" type="rss" htmlUrl="https://www.openphilanthropy.org/" xmlUrl="https://www.openphilanthropy.org/blog/rss"/>
             <outline text="Vox -  Future Perfect" type="rss" htmlUrl="https://www.vox.com/future-perfect" xmlUrl="https://www.vox.com/rss/future-perfect/index.xml"/>
@@ -85,6 +84,13 @@
             <outline text="Pete Warden's blog" type="rss" htmlUrl="https://petewarden.com" xmlUrl="https://petewarden.com/feed/"/>
             <outline text="Sebastian Ruder" type="rss" htmlUrl="http://ruder.io/" xmlUrl="https://ruder.io/rss/index.rss"/>
             <outline text="The Berkeley Artificial Intelligence Research Blog" type="rss" htmlUrl="http://bair.berkeley.edu/blog/" xmlUrl="https://bair.berkeley.edu/blog/feed.xml"/>
+        </outline>
+        <outline text="Business">
+            <outline text="Fast Company" type="rss" htmlUrl="https://www.fastcompany.com" xmlUrl="http://www.fastcompany.com/rss.xml"/>
+            <outline text="CBInsights" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/rvxs99s8vkv39mof.xml"/>
+            <outline text="Sifted Newsletter" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/0h7lqh9tn2flc8kh.xml"/>
+            <outline text="Latest from Sifted – Sifted" type="rss" htmlUrl="https://sifted.eu" xmlUrl="https://sifted.eu/feed/?post_type=article"/>
+            <outline text="No Mercy / No Malice" type="rss" htmlUrl="https://www.profgalloway.com" xmlUrl="https://www.profgalloway.com/rss"/>
         </outline>
         <outline text="Technology">
             <outline text="Guerre di Rete" type="rss" htmlUrl="https://guerredirete.substack.com" xmlUrl="https://guerredirete.substack.com/feed/"/>
@@ -124,7 +130,6 @@
             <outline text="Lavoce.info" type="rss" htmlUrl="https://www.lavoce.info" xmlUrl="https://www.lavoce.info/feed/"/>
             <outline text="Phastidio.net" type="rss" htmlUrl="https://phastidio.net" xmlUrl="https://phastidio.net/feed/"/>
             <outline text="VoxEU.org: Recent Articles" type="rss" htmlUrl="https://voxeu.org/" xmlUrl="https://voxeu.org/feed/recent/rss.xml"/>
-            <outline text="Fast Company" type="rss" htmlUrl="https://www.fastcompany.com" xmlUrl="http://www.fastcompany.com/rss.xml"/>
             <outline text="Il Sole 24 ORE -  Finanza" type="rss" htmlUrl="https://www.ilsole24ore.com" xmlUrl="https://www.ilsole24ore.com/rss/finanza--quotate-italia.xml"/>
             <outline text="The Economist: The world this week" type="rss" htmlUrl="https://www.economist.com/the-world-this-week/" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml"/>
         </outline>
@@ -157,6 +162,9 @@
             <outline text="Le Monde.fr - Actualités et Infos en France et dans le monde" type="rss" htmlUrl="https://www.lemonde.fr/rss/une.xml" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
             <outline text="FiveThirtyEight » Features | FiveThirtyEight" type="rss" htmlUrl="https://fivethirtyeight.com" xmlUrl="https://fivethirtyeight.com/features/feed/"/>
             <outline text="ICIJ" type="rss" htmlUrl="https://www.icij.org" xmlUrl="https://www.icij.org/feed"/>
+            <outline text="Vox - All" type="rss" htmlUrl="https://www.vox.com/" xmlUrl="https://www.vox.com/rss/index.xml"/>
+            <outline text="BBC News - World" type="rss" htmlUrl="https://www.bbc.co.uk/news/" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
+            <outline text="The Browser" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/o6mon4s2n4fde60i.xml"/>
         </outline>
         <outline text="Left">
             <outline text="DINAMOpress" type="rss" htmlUrl="https://www.dinamopress.it" xmlUrl="https://www.dinamopress.it/feed/"/>
