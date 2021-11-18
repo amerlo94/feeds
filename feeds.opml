@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Tue Oct 26 23:34:24 2021</dateModified>
+        <dateModified>Thu Nov 18 23:55:10 2021</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -19,15 +19,12 @@
             <outline text="ROARS" type="rss" htmlUrl="https://www.roars.it/online" xmlUrl="https://www.roars.it/online/rss"/>
         </outline>
         <outline text="Thinking">
-            <outline text="Paul Graham: Essays" type="rss" htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
-            <outline text="Gwern.net Newsletter" type="rss" htmlUrl="https://gwern.substack.com" xmlUrl="https://gwern.substack.com/feed/"/>
-            <outline text="The Blog of Author Tim Ferriss » Blog" type="rss" htmlUrl="https://tim.blog" xmlUrl="http://feeds.feedburner.com/TimFerriss"/>
             <outline text="Roam Newsletter" type="rss" htmlUrl="https://roamresearch.substack.com" xmlUrl="https://roamresearch.substack.com/feed"/>
-            <outline text="Astral Codex Ten" type="rss" htmlUrl="https://astralcodexten.substack.com" xmlUrl="https://astralcodexten.substack.com/feed"/>
             <outline text="Farnam Street" type="rss" htmlUrl="https://fs.blog" xmlUrl="http://feeds.feedburner.com/68131"/>
             <outline text="LessWrong" type="rss" htmlUrl="https://www.lesswrong.com" xmlUrl="https://www.lesswrong.com/feed.xml?view=curated-rss"/>
-            <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/pets" xmlUrl="https://sive.rs/en.atom"/>
             <outline text="The Technium" type="rss" htmlUrl="https://kk.org/thetechnium" xmlUrl="https://feedpress.me/TheTechnium"/>
+            <outline text="Superorganizers" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/1gsfh3obt7utn2w4.xml"/>
+            <outline text="Quillette" type="rss" htmlUrl="https://quillette.com/" xmlUrl="https://quillette.com/rss/"/>
         </outline>
         <outline text="Italy">
             <outline text="Altreconomia" type="rss" htmlUrl="https://altreconomia.it" xmlUrl="https://altreconomia.it/rss"/>
@@ -67,6 +64,7 @@
             <outline text="Vox -  Future Perfect" type="rss" htmlUrl="https://www.vox.com/future-perfect" xmlUrl="https://www.vox.com/rss/future-perfect/index.xml"/>
             <outline text="The Blog – The Borgen Project" type="rss" htmlUrl="https://borgenproject.org" xmlUrl="https://borgenproject.org/blog/feed/"/>
             <outline text="Our World in Data" type="rss" htmlUrl="https://ourworldindata.org" xmlUrl="https://ourworldindata.org/feed"/>
+            <outline text="Cold Takes" type="rss" htmlUrl="https://www.cold-takes.com/" xmlUrl="https://www.cold-takes.com/rss/"/>
         </outline>
         <outline text="Energy">
             <outline text="EnergyPost.eu" type="rss" htmlUrl="https://energypost.eu" xmlUrl="https://energypost.eu/feed/"/>
@@ -74,6 +72,7 @@
             <outline text="Nuclear Fusion" type="rss" htmlUrl="https://www.reddit.com/r/fusion/" xmlUrl="https://www.reddit.com/r/fusion/.rss"/>
             <outline text="&quot;&quot;nuclear fusion&quot; -fission&quot; - Google News" type="rss" htmlUrl="https://news.google.com/search?q=%22nuclear+fusion%22+-fission&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" xmlUrl="https://news.google.com/news/rss/search?q=%22nuclear%20fusion%22%20-fission&amp;hl=en"/>
             <outline text="Forbes - Energy" type="rss" htmlUrl="https://www.forbes.com/energy/" xmlUrl="https://www.forbes.com/energy/feed/"/>
+            <outline text="Energy Watch Group" type="rss" htmlUrl="https://www.energywatchgroup.org" xmlUrl="https://www.energywatchgroup.org/feed"/>
         </outline>
         <outline text="AI &amp; ML">
             <outline text="Nature Machine Intelligence" type="rss" htmlUrl="http://feeds.nature.com/natmachintell/rss/current" xmlUrl="http://feeds.nature.com/natmachintell/rss/current"/>
@@ -91,6 +90,7 @@
             <outline text="Sifted Newsletter" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/0h7lqh9tn2flc8kh.xml"/>
             <outline text="Latest from Sifted – Sifted" type="rss" htmlUrl="https://sifted.eu" xmlUrl="https://sifted.eu/feed/?post_type=article"/>
             <outline text="No Mercy / No Malice" type="rss" htmlUrl="https://www.profgalloway.com" xmlUrl="https://www.profgalloway.com/rss"/>
+            <outline text="Every" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/slsnfwuz12k2moaw.xml"/>
         </outline>
         <outline text="Technology">
             <outline text="Guerre di Rete" type="rss" htmlUrl="https://guerredirete.substack.com" xmlUrl="https://guerredirete.substack.com/feed/"/>
@@ -202,6 +202,14 @@
             <outline text="Strisciarossa" type="rss" htmlUrl="https://www.strisciarossa.it" xmlUrl="http://www.strisciarossa.it/feed/"/>
             <outline text="The Atlantic" type="rss" htmlUrl="https://www.theatlantic.com/" xmlUrl="https://www.theatlantic.com/feed/all/"/>
             <outline text="The Intercept" type="rss" htmlUrl="https://theintercept.com" xmlUrl="https://theintercept.com/feed"/>
+        </outline>
+        <outline text="Blogs">
+            <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/bp" xmlUrl="https://sive.rs/en.atom"/>
+            <outline text="Astral Codex Ten" type="rss" htmlUrl="https://astralcodexten.substack.com" xmlUrl="https://astralcodexten.substack.com/feed"/>
+            <outline text="Gwern.net Newsletter" type="rss" htmlUrl="https://gwern.substack.com" xmlUrl="https://gwern.substack.com/feed/"/>
+            <outline text="The Blog of Author Tim Ferriss » Blog" type="rss" htmlUrl="https://tim.blog" xmlUrl="http://feeds.feedburner.com/TimFerriss"/>
+            <outline text="Paul Graham: Essays" type="rss" htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
+            <outline text="Bert Hubert's writings" type="rss" htmlUrl="https://berthub.eu/articles/" xmlUrl="https://berthub.eu/articles/index.xml"/>
         </outline>
     </body>
 </opml>
