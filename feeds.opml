@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Thu Nov 18 23:55:10 2021</dateModified>
+        <dateModified>Sun Dec 19 08:45:09 2021</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -37,11 +37,11 @@
             <outline text="Ippolita" type="rss" htmlUrl="https://www.ippolita.net" xmlUrl="https://www.ippolita.net/feed/"/>
             <outline text="L'INDISCRETO" type="rss" htmlUrl="https://www.indiscreto.org" xmlUrl="https://www.indiscreto.org/feed/"/>
             <outline text="La Civiltà Cattolica" type="rss" htmlUrl="https://www.laciviltacattolica.it" xmlUrl="https://www.laciviltacattolica.it/feed/"/>
-            <outline text="Le parole e le cose²" type="rss" htmlUrl="http://www.leparoleelecose.it" xmlUrl="http://www.leparoleelecose.it/?feed=rss2"/>
+            <outline text="Le parole e le cose²" type="rss" htmlUrl="https://www.leparoleelecose.it" xmlUrl="http://www.leparoleelecose.it/?feed=rss2"/>
             <outline text="minima&amp;moralia" type="rss" htmlUrl="https://www.minimaetmoralia.it/wp" xmlUrl="http://www.minimaetmoralia.it/wp/feed/"/>
             <outline text="Nazione Indiana" type="rss" htmlUrl="https://www.nazioneindiana.com" xmlUrl="https://www.nazioneindiana.com/feed/"/>
             <outline text="Scomodo" type="rss" htmlUrl="https://www.leggiscomodo.org" xmlUrl="https://www.leggiscomodo.org/feed/"/>
-            <outline text="ANSA.it" type="rss" htmlUrl="http://www.ansa.it/" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml"/>
+            <outline text="ANSA.it" type="rss" htmlUrl="https://www.ansa.it/" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml"/>
             <outline text="Fanpage" type="rss" htmlUrl="https://www.fanpage.it" xmlUrl="https://www.fanpage.it/feed/"/>
             <outline text="La Repubblica.it - Homepage" type="rss" htmlUrl="https://www.repubblica.it" xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml"/>
             <outline text="Sbilanciamoci – L’economia com’è e come può essere. Per un’Italia capace di futuro" type="rss" htmlUrl="https://sbilanciamoci.info" xmlUrl="https://sbilanciamoci.info/feed/"/>
@@ -92,7 +92,7 @@
             <outline text="No Mercy / No Malice" type="rss" htmlUrl="https://www.profgalloway.com" xmlUrl="https://www.profgalloway.com/rss"/>
             <outline text="Every" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/slsnfwuz12k2moaw.xml"/>
         </outline>
-        <outline text="Technology">
+        <outline text="Computing">
             <outline text="Guerre di Rete" type="rss" htmlUrl="https://guerredirete.substack.com" xmlUrl="https://guerredirete.substack.com/feed/"/>
             <outline text="deutsche-startups.de" type="rss" htmlUrl="https://www.deutsche-startups.de" xmlUrl="https://www.deutsche-startups.de/feed/"/>
             <outline text="Phoronix" type="rss" htmlUrl="https://www.phoronix.com/" xmlUrl="https://www.phoronix.com/rss.php"/>
@@ -104,6 +104,11 @@
             <outline text="Phys.org - latest science and technology news stories" type="rss" htmlUrl="https://phys.org/" xmlUrl="http://phys.org/rss-feed/"/>
             <outline text="Nature - Issue - nature.com science feeds" type="rss" htmlUrl="http://feeds.nature.com/nature/rss/current" xmlUrl="http://feeds.nature.com/nature/rss/current"/>
             <outline text="Latest News from Science Magazine" type="rss" htmlUrl="https://www.science.org/action/doSearch?type=advanced&amp;af=RAllField=*:*&amp;content=digitalObject&amp;target=multi-concept-digital-object-search&amp;pageSize=10&amp;sortBy=Earliest&amp;ConceptID=505196" xmlUrl="http://www.sciencemag.org/rss/news_current.xml"/>
+            <outline text="MIT Technology Review" type="rss" htmlUrl="https://www.technologyreview.com" xmlUrl="https://www.technologyreview.com/feed"/>
+            <outline text="Your Local Epidemiologist" type="rss" htmlUrl="https://yourlocalepidemiologist.substack.com" xmlUrl="https://yourlocalepidemiologist.substack.com/feed"/>
+        </outline>
+        <outline text="Space">
+            <outline text="Space.com" type="rss" htmlUrl="https://www.space.com/feeds/all" xmlUrl="https://www.space.com/feeds/all"/>
         </outline>
         <outline text="Food">
             <outline text="The Good Food Institute" type="rss" htmlUrl="https://gfi.org" xmlUrl="https://www.gfi.org/rss.xml"/>
@@ -210,6 +215,7 @@
             <outline text="The Blog of Author Tim Ferriss » Blog" type="rss" htmlUrl="https://tim.blog" xmlUrl="http://feeds.feedburner.com/TimFerriss"/>
             <outline text="Paul Graham: Essays" type="rss" htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
             <outline text="Bert Hubert's writings" type="rss" htmlUrl="https://berthub.eu/articles/" xmlUrl="https://berthub.eu/articles/index.xml"/>
+            <outline text="Scott H Young" type="rss" htmlUrl="https://www.scotthyoung.com/blog" xmlUrl="https://www.scotthyoung.com/blog/rss"/>
         </outline>
     </body>
 </opml>
