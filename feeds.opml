@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Sun Dec 19 08:45:09 2021</dateModified>
+        <dateModified>Fri Jan 21 19:03:32 2022</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -19,12 +19,12 @@
             <outline text="ROARS" type="rss" htmlUrl="https://www.roars.it/online" xmlUrl="https://www.roars.it/online/rss"/>
         </outline>
         <outline text="Thinking">
-            <outline text="Roam Newsletter" type="rss" htmlUrl="https://roamresearch.substack.com" xmlUrl="https://roamresearch.substack.com/feed"/>
             <outline text="Farnam Street" type="rss" htmlUrl="https://fs.blog" xmlUrl="http://feeds.feedburner.com/68131"/>
             <outline text="LessWrong" type="rss" htmlUrl="https://www.lesswrong.com" xmlUrl="https://www.lesswrong.com/feed.xml?view=curated-rss"/>
             <outline text="The Technium" type="rss" htmlUrl="https://kk.org/thetechnium" xmlUrl="https://feedpress.me/TheTechnium"/>
             <outline text="Superorganizers" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/1gsfh3obt7utn2w4.xml"/>
             <outline text="Quillette" type="rss" htmlUrl="https://quillette.com/" xmlUrl="https://quillette.com/rss/"/>
+            <outline text="Fallacy Files" type="rss" htmlUrl="http://www.fallacyfiles.org/" xmlUrl="https://www.fallacyfiles.org/blogfeed.xml"/>
         </outline>
         <outline text="Italy">
             <outline text="Altreconomia" type="rss" htmlUrl="https://altreconomia.it" xmlUrl="https://altreconomia.it/rss"/>
@@ -53,6 +53,8 @@
             <outline text="Valigia Blu" type="rss" htmlUrl="https://www.valigiablu.it" xmlUrl="https://www.valigiablu.it/feed/"/>
             <outline text="YouTrend" type="rss" htmlUrl="https://www.youtrend.it" xmlUrl="https://www.youtrend.it/feed/"/>
             <outline text="Rivista il Mulino" type="rss" htmlUrl="http://www.rivistailmulino.it" xmlUrl="http://www.rivistailmulino.it/rss/all"/>
+            <outline text="Lavoce.info" type="rss" htmlUrl="https://www.lavoce.info" xmlUrl="https://www.lavoce.info/rss"/>
+            <outline text="Corriere.it - Homepage" type="rss" htmlUrl="https://www.corriere.it" xmlUrl="http://xml2.corriereobjects.it/rss/homepage.xml"/>
         </outline>
         <outline text="Impact">
             <outline text="80,000 Hours" type="rss" htmlUrl="https://80000hours.org" xmlUrl="https://80000hours.org/feed/atom/"/>
@@ -76,7 +78,7 @@
         </outline>
         <outline text="AI &amp; ML">
             <outline text="Nature Machine Intelligence" type="rss" htmlUrl="http://feeds.nature.com/natmachintell/rss/current" xmlUrl="http://feeds.nature.com/natmachintell/rss/current"/>
-            <outline text="Facebook Research" type="rss" htmlUrl="https://research.fb.com" xmlUrl="https://research.fb.com/feed/"/>
+            <outline text="Facebook Research" type="rss" htmlUrl="https://research.facebook.com/" xmlUrl="https://research.fb.com/feed/"/>
             <outline text="DeepMind" type="rss" htmlUrl="https://deepmind.com/blog/" xmlUrl="https://deepmind.com/blog/feed/basic/"/>
             <outline text="Google AI Blog" type="rss" htmlUrl="http://ai.googleblog.com/" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg"/>
             <outline text="OpenAI" type="rss" htmlUrl="https://openai.com/" xmlUrl="https://openai.com/blog/rss/"/>
@@ -140,7 +142,7 @@
         </outline>
         <outline text="Germany">
             <outline text="DER SPIEGEL - Schlagzeilen" type="rss" htmlUrl="https://www.spiegel.de/" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss"/>
-            <outline text="taz.de - Artikel aus der Onlineausgabe" type="rss" htmlUrl="http://www.taz.de/Archiv-Suche/!5808276&amp;s=/" xmlUrl="https://taz.de/!s=&amp;ExportStatus=Intern&amp;SuchRahmen=Online;rss/"/>
+            <outline text="taz.de - Artikel aus der Onlineausgabe" type="rss" htmlUrl="http://www.taz.de/Archiv-Suche/!5824065&amp;s=/" xmlUrl="https://taz.de/!s=&amp;ExportStatus=Intern&amp;SuchRahmen=Online;rss/"/>
             <outline text="Deutsche Welle" type="rss" htmlUrl="http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
             <outline text="Telepolis" type="rss" htmlUrl="https://www.heise.de/tp/" xmlUrl="http://www.heise.de/tp/news-atom.xml"/>
             <outline text="netzpolitik.org" type="rss" htmlUrl="https://netzpolitik.org" xmlUrl="https://netzpolitik.org/feed"/>
@@ -209,7 +211,7 @@
             <outline text="The Intercept" type="rss" htmlUrl="https://theintercept.com" xmlUrl="https://theintercept.com/feed"/>
         </outline>
         <outline text="Blogs">
-            <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/bp" xmlUrl="https://sive.rs/en.atom"/>
+            <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/dive" xmlUrl="https://sive.rs/en.atom"/>
             <outline text="Astral Codex Ten" type="rss" htmlUrl="https://astralcodexten.substack.com" xmlUrl="https://astralcodexten.substack.com/feed"/>
             <outline text="Gwern.net Newsletter" type="rss" htmlUrl="https://gwern.substack.com" xmlUrl="https://gwern.substack.com/feed/"/>
             <outline text="The Blog of Author Tim Ferriss » Blog" type="rss" htmlUrl="https://tim.blog" xmlUrl="http://feeds.feedburner.com/TimFerriss"/>
