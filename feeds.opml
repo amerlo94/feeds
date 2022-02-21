@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Fri Jan 21 19:03:32 2022</dateModified>
+        <dateModified>Mon Feb 21 19:15:49 2022</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -114,6 +114,7 @@
         </outline>
         <outline text="Food">
             <outline text="The Good Food Institute" type="rss" htmlUrl="https://gfi.org" xmlUrl="https://www.gfi.org/rss.xml"/>
+            <outline text="&quot;&quot;alternative protein&quot; AND Italy&quot; - Google News" type="rss" htmlUrl="https://news.google.com/search?q=%22alternative+protein%22+AND+Italy&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" xmlUrl="https://news.google.com/rss/search?q=%22alternative protein%22 AND Italy&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen"/>
         </outline>
         <outline text="Alternative">
             <outline text="Rete Voltaire" type="rss" htmlUrl="https://www.voltairenet.org/" xmlUrl="https://www.voltairenet.org/spip.php?page=backend&amp;id_secteur=1110&amp;lang=it"/>
@@ -211,13 +212,17 @@
             <outline text="The Intercept" type="rss" htmlUrl="https://theintercept.com" xmlUrl="https://theintercept.com/feed"/>
         </outline>
         <outline text="Blogs">
-            <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/dive" xmlUrl="https://sive.rs/en.atom"/>
+            <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/bfaq" xmlUrl="https://sive.rs/en.atom"/>
             <outline text="Astral Codex Ten" type="rss" htmlUrl="https://astralcodexten.substack.com" xmlUrl="https://astralcodexten.substack.com/feed"/>
             <outline text="Gwern.net Newsletter" type="rss" htmlUrl="https://gwern.substack.com" xmlUrl="https://gwern.substack.com/feed/"/>
             <outline text="The Blog of Author Tim Ferriss » Blog" type="rss" htmlUrl="https://tim.blog" xmlUrl="http://feeds.feedburner.com/TimFerriss"/>
             <outline text="Paul Graham: Essays" type="rss" htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
             <outline text="Bert Hubert's writings" type="rss" htmlUrl="https://berthub.eu/articles/" xmlUrl="https://berthub.eu/articles/index.xml"/>
             <outline text="Scott H Young" type="rss" htmlUrl="https://www.scotthyoung.com/blog" xmlUrl="https://www.scotthyoung.com/blog/rss"/>
+            <outline text="benkuhn.net" type="rss" htmlUrl="https://www.benkuhn.net/" xmlUrl="https://www.benkuhn.net/index.xml"/>
+        </outline>
+        <outline text="Technology">
+            <outline text="Feed: All Latest" type="rss" htmlUrl="https://www.wired.com/latest" xmlUrl="https://www.wired.com/feed"/>
         </outline>
     </body>
 </opml>
