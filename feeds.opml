@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Mon Feb 21 19:15:49 2022</dateModified>
+        <dateModified>Mon Mar 7 18:52:21 2022</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -108,6 +108,7 @@
             <outline text="Latest News from Science Magazine" type="rss" htmlUrl="https://www.science.org/action/doSearch?type=advanced&amp;af=RAllField=*:*&amp;content=digitalObject&amp;target=multi-concept-digital-object-search&amp;pageSize=10&amp;sortBy=Earliest&amp;ConceptID=505196" xmlUrl="http://www.sciencemag.org/rss/news_current.xml"/>
             <outline text="MIT Technology Review" type="rss" htmlUrl="https://www.technologyreview.com" xmlUrl="https://www.technologyreview.com/feed"/>
             <outline text="Your Local Epidemiologist" type="rss" htmlUrl="https://yourlocalepidemiologist.substack.com" xmlUrl="https://yourlocalepidemiologist.substack.com/feed"/>
+            <outline text="Nature Communications - current - nature.com science feeds" type="rss" htmlUrl="http://feeds.nature.com/ncomms/rss/current" xmlUrl="http://feeds.nature.com/ncomms/rss/current"/>
         </outline>
         <outline text="Space">
             <outline text="Space.com" type="rss" htmlUrl="https://www.space.com/feeds/all" xmlUrl="https://www.space.com/feeds/all"/>
