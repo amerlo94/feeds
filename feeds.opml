@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Mon Mar 7 18:52:21 2022</dateModified>
+        <dateModified>Mon Apr 4 17:23:24 2022</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -75,6 +75,7 @@
             <outline text="&quot;&quot;nuclear fusion&quot; -fission&quot; - Google News" type="rss" htmlUrl="https://news.google.com/search?q=%22nuclear+fusion%22+-fission&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" xmlUrl="https://news.google.com/news/rss/search?q=%22nuclear%20fusion%22%20-fission&amp;hl=en"/>
             <outline text="Forbes - Energy" type="rss" htmlUrl="https://www.forbes.com/energy/" xmlUrl="https://www.forbes.com/energy/feed/"/>
             <outline text="Energy Watch Group" type="rss" htmlUrl="https://www.energywatchgroup.org" xmlUrl="https://www.energywatchgroup.org/feed"/>
+            <outline text="Clean Energy Wire" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/g68mca0swml1ild5.xml"/>
         </outline>
         <outline text="AI &amp; ML">
             <outline text="Nature Machine Intelligence" type="rss" htmlUrl="http://feeds.nature.com/natmachintell/rss/current" xmlUrl="http://feeds.nature.com/natmachintell/rss/current"/>
