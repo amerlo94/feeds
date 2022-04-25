@@ -2,13 +2,14 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Mon Apr 4 17:23:24 2022</dateModified>
+        <dateModified>Mon Apr 25 18:11:56 2022</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
-            <outline text="Nuclear Fusion - latest papers" type="rss" htmlUrl="http://iopscience.iop.org/journal/rss/0029-5515" xmlUrl="http://iopscience.iop.org/journal/rss/0029-5515"/>
             <outline text="stat.ML updates on arXiv.org" type="rss" htmlUrl="http://arxiv.org/" xmlUrl="http://arxiv.org/rss/stat.ML"/>
             <outline text="physics.plasm-ph updates on arXiv.org" type="rss" htmlUrl="http://arxiv.org/" xmlUrl="http://export.arxiv.org/rss/physics.plasm-ph"/>
+            <outline text="IOPscience Full Text Search" type="rss" htmlUrl="http://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515" xmlUrl="https://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515"/>
+            <outline text="IOPscience Full Text Search - Reactor" type="rss" htmlUrl="http://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515&amp;terms=reactor" xmlUrl="https://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515&amp;terms=reactor"/>
         </outline>
         <outline text="Research">
             <outline text="A Happy PhD" type="rss" htmlUrl="http://ahappyphd.org/" xmlUrl="https://ahappyphd.org/index.xml"/>
@@ -25,6 +26,7 @@
             <outline text="Superorganizers" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/1gsfh3obt7utn2w4.xml"/>
             <outline text="Quillette" type="rss" htmlUrl="https://quillette.com/" xmlUrl="https://quillette.com/rss/"/>
             <outline text="Fallacy Files" type="rss" htmlUrl="http://www.fallacyfiles.org/" xmlUrl="https://www.fallacyfiles.org/blogfeed.xml"/>
+            <outline text="Wait But Why" type="rss" htmlUrl="https://waitbutwhy.com" xmlUrl="https://waitbutwhy.com/rss"/>
         </outline>
         <outline text="Italy">
             <outline text="Altreconomia" type="rss" htmlUrl="https://altreconomia.it" xmlUrl="https://altreconomia.it/rss"/>
