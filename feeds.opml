@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Mon Apr 25 18:11:56 2022</dateModified>
+        <dateModified>Mon May 9 19:32:16 2022</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -227,6 +227,9 @@
         </outline>
         <outline text="Technology">
             <outline text="Feed: All Latest" type="rss" htmlUrl="https://www.wired.com/latest" xmlUrl="https://www.wired.com/feed"/>
+        </outline>
+        <outline text="Climate Change">
+            <outline text="Climate-change mitigation : nature.com subject feeds" type="rss" htmlUrl="https://www.nature.com/subjects/climate-change-mitigation" xmlUrl="https://www.nature.com/subjects/climate-change-mitigation.rss"/>
         </outline>
     </body>
 </opml>
