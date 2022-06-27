@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Mon May 9 19:32:16 2022</dateModified>
+        <dateModified>Mon Jun 27 20:03:44 2022</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -10,6 +10,8 @@
             <outline text="physics.plasm-ph updates on arXiv.org" type="rss" htmlUrl="http://arxiv.org/" xmlUrl="http://export.arxiv.org/rss/physics.plasm-ph"/>
             <outline text="IOPscience Full Text Search" type="rss" htmlUrl="http://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515" xmlUrl="https://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515"/>
             <outline text="IOPscience Full Text Search - Reactor" type="rss" htmlUrl="http://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515&amp;terms=reactor" xmlUrl="https://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515&amp;terms=reactor"/>
+            <outline text="Nature Reviews Materials - nature.com science feeds" type="rss" htmlUrl="http://feeds.nature.com/natrevmats/rss/current" xmlUrl="http://feeds.nature.com/natrevmats/rss/current"/>
+            <outline text="Nature Energy" type="rss" htmlUrl="http://feeds.nature.com/nenergy/rss/current" xmlUrl="http://feeds.nature.com/nenergy/rss/current"/>
         </outline>
         <outline text="Research">
             <outline text="A Happy PhD" type="rss" htmlUrl="http://ahappyphd.org/" xmlUrl="https://ahappyphd.org/index.xml"/>
@@ -82,7 +84,7 @@
         <outline text="AI &amp; ML">
             <outline text="Nature Machine Intelligence" type="rss" htmlUrl="http://feeds.nature.com/natmachintell/rss/current" xmlUrl="http://feeds.nature.com/natmachintell/rss/current"/>
             <outline text="Facebook Research" type="rss" htmlUrl="https://research.facebook.com/" xmlUrl="https://research.fb.com/feed/"/>
-            <outline text="DeepMind" type="rss" htmlUrl="https://deepmind.com/blog/" xmlUrl="https://deepmind.com/blog/feed/basic/"/>
+            <outline text="DeepMind" type="rss" htmlUrl="https://www.deepmind.com" xmlUrl="https://deepmind.com/blog/feed/basic/"/>
             <outline text="Google AI Blog" type="rss" htmlUrl="http://ai.googleblog.com/" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg"/>
             <outline text="OpenAI" type="rss" htmlUrl="https://openai.com/" xmlUrl="https://openai.com/blog/rss/"/>
             <outline text="Pete Warden's blog" type="rss" htmlUrl="https://petewarden.com" xmlUrl="https://petewarden.com/feed/"/>
