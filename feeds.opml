@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Mon Jun 27 20:03:44 2022</dateModified>
+        <dateModified>Mon Jul 11 21:59:35 2022</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -71,6 +71,7 @@
             <outline text="The Blog – The Borgen Project" type="rss" htmlUrl="https://borgenproject.org" xmlUrl="https://borgenproject.org/blog/feed/"/>
             <outline text="Our World in Data" type="rss" htmlUrl="https://ourworldindata.org" xmlUrl="https://ourworldindata.org/feed"/>
             <outline text="Cold Takes" type="rss" htmlUrl="https://www.cold-takes.com/" xmlUrl="https://www.cold-takes.com/rss/"/>
+            <outline text="GiveDirectly" type="rss" htmlUrl="https://www.givedirectly.org" xmlUrl="https://www.givedirectly.org/feed/"/>
         </outline>
         <outline text="Energy">
             <outline text="EnergyPost.eu" type="rss" htmlUrl="https://energypost.eu" xmlUrl="https://energypost.eu/feed/"/>
