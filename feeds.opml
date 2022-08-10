@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Mon Jul 11 21:59:35 2022</dateModified>
+        <dateModified>Wed Aug 10 19:35:48 2022</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -227,6 +227,7 @@
             <outline text="Bert Hubert's writings" type="rss" htmlUrl="https://berthub.eu/articles/" xmlUrl="https://berthub.eu/articles/index.xml"/>
             <outline text="Scott H Young" type="rss" htmlUrl="https://www.scotthyoung.com/blog" xmlUrl="https://www.scotthyoung.com/blog/rss"/>
             <outline text="benkuhn.net" type="rss" htmlUrl="https://www.benkuhn.net/" xmlUrl="https://www.benkuhn.net/index.xml"/>
+            <outline text="Jakob Greenfeld" type="rss" htmlUrl="http://jakobgreenfeld.com/" xmlUrl="https://jakobgreenfeld.com/feed"/>
         </outline>
         <outline text="Technology">
             <outline text="Feed: All Latest" type="rss" htmlUrl="https://www.wired.com/latest" xmlUrl="https://www.wired.com/feed"/>
