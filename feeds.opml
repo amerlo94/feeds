@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Wed Aug 24 22:28:25 2022</dateModified>
+        <dateModified>Tue Aug 30 19:23:19 2022</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -200,6 +200,7 @@
             <outline text="Strade - Home" type="rss" htmlUrl="https://www.stradeonline.it/" xmlUrl="https://www.stradeonline.it/?format=feed&amp;type=rss"/>
         </outline>
         <outline text="Politics">
+            <outline text="Limes" type="rss" htmlUrl="https://www.limesonline.com" xmlUrl="https://www.limesonline.com/rss"/>
             <outline text="Politico.eu" type="rss" htmlUrl="https://www.politico.eu" xmlUrl="https://www.politico.eu/rss"/>
             <outline text="IAI - Istituto Affari Internazionali" type="rss" htmlUrl="https://www.iai.it/it/rss.xml" xmlUrl="https://www.iai.it/it/rss.xml"/>
             <outline text="ISPI - Istituto per gli studi di politica internazionale" type="rss" htmlUrl="https://www.ispionline.it/it/front/37/articoli/articolo/node/478" xmlUrl="https://www.ispionline.it/rss.xml"/>
