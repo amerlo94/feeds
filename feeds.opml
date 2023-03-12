@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Tue Aug 30 19:23:19 2022</dateModified>
+        <dateModified>Sun Mar 12 09:19:16 2023</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -59,6 +59,7 @@
             <outline text="Rivista il Mulino" type="rss" htmlUrl="http://www.rivistailmulino.it" xmlUrl="http://www.rivistailmulino.it/rss/all"/>
             <outline text="Lavoce.info" type="rss" htmlUrl="https://www.lavoce.info" xmlUrl="https://www.lavoce.info/rss"/>
             <outline text="Corriere.it - Homepage" type="rss" htmlUrl="https://www.corriere.it" xmlUrl="http://xml2.corriereobjects.it/rss/homepage.xml"/>
+            <outline text="RomaToday" type="rss" htmlUrl="https://www.romatoday.it/" xmlUrl="https://www.romatoday.it/rss"/>
         </outline>
         <outline text="Impact">
             <outline text="80,000 Hours" type="rss" htmlUrl="https://80000hours.org" xmlUrl="https://80000hours.org/feed/atom/"/>
@@ -77,10 +78,11 @@
             <outline text="EnergyPost.eu" type="rss" htmlUrl="https://energypost.eu" xmlUrl="https://energypost.eu/feed/"/>
             <outline text="IAEA Top News RSS Feed" type="rss" htmlUrl="https://www.iaea.org/" xmlUrl="https://www.iaea.org/feeds/topnews"/>
             <outline text="Nuclear Fusion" type="rss" htmlUrl="https://www.reddit.com/r/fusion/" xmlUrl="https://www.reddit.com/r/fusion/.rss"/>
-            <outline text="&quot;&quot;nuclear fusion&quot; -fission&quot; - Google News" type="rss" htmlUrl="https://news.google.com/search?q=%22nuclear+fusion%22+-fission&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" xmlUrl="https://news.google.com/news/rss/search?q=%22nuclear%20fusion%22%20-fission&amp;hl=en"/>
             <outline text="Forbes - Energy" type="rss" htmlUrl="https://www.forbes.com/energy/" xmlUrl="https://www.forbes.com/energy/feed/"/>
             <outline text="Energy Watch Group" type="rss" htmlUrl="https://www.energywatchgroup.org" xmlUrl="https://www.energywatchgroup.org/feed"/>
             <outline text="Clean Energy Wire" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/g68mca0swml1ild5.xml"/>
+            <outline text="&quot;&quot;nuclear fusion&quot; -fission&quot; - Google News" type="rss" htmlUrl="https://news.google.com/search?q=%22nuclear+fusion%22+-fission&amp;hl=en&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" xmlUrl="https://news.google.com/rss/search?q=%22nuclear+fusion%22+-fission&amp;amp;hl=en&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+            <outline text="World Nuclear News" type="rss" htmlUrl="https://www.world-nuclear-news.org/?rss=feed" xmlUrl="https://www.world-nuclear-news.org/?rss=feed"/>
         </outline>
         <outline text="AI &amp; ML">
             <outline text="Nature Machine Intelligence" type="rss" htmlUrl="http://feeds.nature.com/natmachintell/rss/current" xmlUrl="http://feeds.nature.com/natmachintell/rss/current"/>
@@ -93,16 +95,17 @@
             <outline text="The Berkeley Artificial Intelligence Research Blog" type="rss" htmlUrl="http://bair.berkeley.edu/blog/" xmlUrl="https://bair.berkeley.edu/blog/feed.xml"/>
         </outline>
         <outline text="Business">
+            <outline text="deutsche-startups.de" type="rss" htmlUrl="https://www.deutsche-startups.de" xmlUrl="https://www.deutsche-startups.de/feed/"/>
             <outline text="Fast Company" type="rss" htmlUrl="https://www.fastcompany.com" xmlUrl="http://www.fastcompany.com/rss.xml"/>
             <outline text="CBInsights" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/rvxs99s8vkv39mof.xml"/>
             <outline text="Sifted Newsletter" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/0h7lqh9tn2flc8kh.xml"/>
-            <outline text="Latest from Sifted – Sifted" type="rss" htmlUrl="https://sifted.eu" xmlUrl="https://sifted.eu/feed/?post_type=article"/>
+            <outline text="Latest from Sifted – Sifted" type="rss" htmlUrl="https://sifted.eu/latest/" xmlUrl="https://sifted.eu/feed/?post_type=article"/>
             <outline text="No Mercy / No Malice" type="rss" htmlUrl="https://www.profgalloway.com" xmlUrl="https://www.profgalloway.com/rss"/>
             <outline text="Every" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/slsnfwuz12k2moaw.xml"/>
+            <outline text="EU-Startups" type="rss" htmlUrl="https://www.eu-startups.com/" xmlUrl="https://www.eu-startups.com/rss"/>
         </outline>
         <outline text="Computing">
             <outline text="Guerre di Rete" type="rss" htmlUrl="https://guerredirete.substack.com" xmlUrl="https://guerredirete.substack.com/feed/"/>
-            <outline text="deutsche-startups.de" type="rss" htmlUrl="https://www.deutsche-startups.de" xmlUrl="https://www.deutsche-startups.de/feed/"/>
             <outline text="Phoronix" type="rss" htmlUrl="https://www.phoronix.com/" xmlUrl="https://www.phoronix.com/rss.php"/>
             <outline text="The Linux Foundation" type="rss" htmlUrl="https://www.linuxfoundation.org" xmlUrl="https://www.linuxfoundation.org/feed/"/>
             <outline text="RISC-V International" type="rss" htmlUrl="https://riscv.org" xmlUrl="https://riscv.org/feed/"/>
@@ -111,7 +114,7 @@
             <outline text="Quanta Magazine" type="rss" htmlUrl="https://www.quantamagazine.org" xmlUrl="https://www.quantamagazine.org/feed/"/>
             <outline text="Phys.org - latest science and technology news stories" type="rss" htmlUrl="https://phys.org/" xmlUrl="http://phys.org/rss-feed/"/>
             <outline text="Nature - Issue - nature.com science feeds" type="rss" htmlUrl="http://feeds.nature.com/nature/rss/current" xmlUrl="http://feeds.nature.com/nature/rss/current"/>
-            <outline text="Latest News from Science Magazine" type="rss" htmlUrl="https://www.science.org/action/doSearch?type=advanced&amp;af=RAllField=*:*&amp;content=digitalObject&amp;target=multi-concept-digital-object-search&amp;pageSize=10&amp;sortBy=Earliest&amp;ConceptID=505196" xmlUrl="http://www.sciencemag.org/rss/news_current.xml"/>
+            <outline text="Latest News from Science Magazine" type="rss" htmlUrl="https://www.science.org" xmlUrl="http://www.sciencemag.org/rss/news_current.xml"/>
             <outline text="MIT Technology Review" type="rss" htmlUrl="https://www.technologyreview.com" xmlUrl="https://www.technologyreview.com/feed"/>
             <outline text="Your Local Epidemiologist" type="rss" htmlUrl="https://yourlocalepidemiologist.substack.com" xmlUrl="https://yourlocalepidemiologist.substack.com/feed"/>
             <outline text="Nature Communications - current - nature.com science feeds" type="rss" htmlUrl="http://feeds.nature.com/ncomms/rss/current" xmlUrl="http://feeds.nature.com/ncomms/rss/current"/>
@@ -154,6 +157,7 @@
             <outline text="Deutsche Welle" type="rss" htmlUrl="http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
             <outline text="Telepolis" type="rss" htmlUrl="https://www.heise.de/tp/" xmlUrl="http://www.heise.de/tp/news-atom.xml"/>
             <outline text="netzpolitik.org" type="rss" htmlUrl="https://netzpolitik.org" xmlUrl="https://netzpolitik.org/feed"/>
+            <outline text="Nachrichten" type="rss" htmlUrl="https://www.nachrichtenleicht.de/nachrichtenleicht-nachrichten-100.html" xmlUrl="https://www.nachrichtenleicht.de/nachrichtenleicht-nachrichten-100.rss"/>
         </outline>
         <outline text="Europe">
             <outline text="East Journal" type="rss" htmlUrl="https://www.eastjournal.net" xmlUrl="https://www.eastjournal.net/feed"/>
@@ -218,6 +222,7 @@
             <outline text="Strisciarossa" type="rss" htmlUrl="https://www.strisciarossa.it" xmlUrl="http://www.strisciarossa.it/feed/"/>
             <outline text="The Atlantic" type="rss" htmlUrl="https://www.theatlantic.com/" xmlUrl="https://www.theatlantic.com/feed/all/"/>
             <outline text="The Intercept" type="rss" htmlUrl="https://theintercept.com" xmlUrl="https://theintercept.com/feed"/>
+            <outline text="Harvard International Review" type="rss" htmlUrl="https://hir.harvard.edu/" xmlUrl="https://hir.harvard.edu/rss/"/>
         </outline>
         <outline text="Blogs">
             <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/bfaq" xmlUrl="https://sive.rs/en.atom"/>
@@ -230,12 +235,17 @@
             <outline text="benkuhn.net" type="rss" htmlUrl="https://www.benkuhn.net/" xmlUrl="https://www.benkuhn.net/index.xml"/>
             <outline text="Jakob Greenfeld" type="rss" htmlUrl="http://jakobgreenfeld.com/" xmlUrl="https://jakobgreenfeld.com/feed"/>
             <outline text="Overcoming Bias" type="rss" htmlUrl="https://www.overcomingbias.com" xmlUrl="https://www.overcomingbias.com/rss"/>
+            <outline text="Steve Blank" type="rss" htmlUrl="https://steveblank.com" xmlUrl="https://steveblank.com/feed/"/>
         </outline>
         <outline text="Technology">
             <outline text="Feed: All Latest" type="rss" htmlUrl="https://www.wired.com/latest" xmlUrl="https://www.wired.com/feed"/>
         </outline>
         <outline text="Climate Change">
             <outline text="Climate-change mitigation : nature.com subject feeds" type="rss" htmlUrl="https://www.nature.com/subjects/climate-change-mitigation" xmlUrl="https://www.nature.com/subjects/climate-change-mitigation.rss"/>
+        </outline>
+        <outline text="F1">
+            <outline text="Formula 1 News" type="rss" htmlUrl="https://www.formula1.com" xmlUrl="https://www.formula1.com/content/fom-website/en/latest/all.xml"/>
+            <outline text="Autosport.com - Formula 1 - Stories" type="rss" htmlUrl="https://www.autosport.com/f1/news/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" xmlUrl="https://www.autosport.com/rss/f1/news/"/>
         </outline>
     </body>
 </opml>
