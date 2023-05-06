@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Sun Mar 12 09:19:16 2023</dateModified>
+        <dateModified>Sat May 6 20:17:18 2023</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
@@ -60,6 +60,7 @@
             <outline text="Lavoce.info" type="rss" htmlUrl="https://www.lavoce.info" xmlUrl="https://www.lavoce.info/rss"/>
             <outline text="Corriere.it - Homepage" type="rss" htmlUrl="https://www.corriere.it" xmlUrl="http://xml2.corriereobjects.it/rss/homepage.xml"/>
             <outline text="RomaToday" type="rss" htmlUrl="https://www.romatoday.it/" xmlUrl="https://www.romatoday.it/rss"/>
+            <outline text="Domani" type="rss" htmlUrl="https://www.editorialedomani.it" xmlUrl="https://www.editorialedomani.it/rss"/>
         </outline>
         <outline text="Impact">
             <outline text="80,000 Hours" type="rss" htmlUrl="https://80000hours.org" xmlUrl="https://80000hours.org/feed/atom/"/>
