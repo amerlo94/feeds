@@ -2,75 +2,73 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>Sat May 6 20:17:18 2023</dateModified>
+        <dateModified>Sun Feb 18 19:43:52 2024</dateModified>
     </head>
     <body>
         <outline text="Research Feed">
-            <outline text="stat.ML updates on arXiv.org" type="rss" htmlUrl="http://arxiv.org/" xmlUrl="http://arxiv.org/rss/stat.ML"/>
-            <outline text="physics.plasm-ph updates on arXiv.org" type="rss" htmlUrl="http://arxiv.org/" xmlUrl="http://export.arxiv.org/rss/physics.plasm-ph"/>
+            <outline text="stat.ML updates on arXiv.org" type="rss" htmlUrl="http://rss.arxiv.org/rss/stat.ML" xmlUrl="http://arxiv.org/rss/stat.ML"/>
+            <outline text="physics.plasm-ph updates on arXiv.org" type="rss" htmlUrl="http://rss.arxiv.org/rss/physics.plasm-ph" xmlUrl="http://export.arxiv.org/rss/physics.plasm-ph"/>
             <outline text="IOPscience Full Text Search" type="rss" htmlUrl="http://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515" xmlUrl="https://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515"/>
             <outline text="IOPscience Full Text Search - Reactor" type="rss" htmlUrl="http://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515&amp;terms=reactor" xmlUrl="https://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515&amp;terms=reactor"/>
             <outline text="Nature Reviews Materials - nature.com science feeds" type="rss" htmlUrl="http://feeds.nature.com/natrevmats/rss/current" xmlUrl="http://feeds.nature.com/natrevmats/rss/current"/>
             <outline text="Nature Energy" type="rss" htmlUrl="http://feeds.nature.com/nenergy/rss/current" xmlUrl="http://feeds.nature.com/nenergy/rss/current"/>
         </outline>
         <outline text="Research">
-            <outline text="A Happy PhD" type="rss" htmlUrl="http://ahappyphd.org/" xmlUrl="https://ahappyphd.org/index.xml"/>
-            <outline text="Shtetl-Optimized" type="rss" htmlUrl="https://www.scottaaronson.com/blog" xmlUrl="https://www.scottaaronson.com/blog/?feed=rss2"/>
+            <outline text="A Happy PhD" type="rss" htmlUrl="https://ahappyphd.org/" xmlUrl="https://ahappyphd.org/index.xml"/>
+            <outline text="Shtetl-Optimized" type="rss" htmlUrl="https://scottaaronson.blog" xmlUrl="https://www.scottaaronson.com/blog/?feed=rss2"/>
             <outline text="Terence Tao - What's new" type="rss" htmlUrl="https://terrytao.wordpress.com" xmlUrl="https://terrytao.wordpress.com/feed/"/>
             <outline text="Business and Editorial articles from Science Careers" type="rss" htmlUrl="http://www.sciencemag.org/rss/careers-latest.xml" xmlUrl="https://www.sciencemag.org/rss/careers-latest.xml"/>
             <outline text="Impact of Social Sciences" type="rss" htmlUrl="https://blogs.lse.ac.uk/impactofsocialsciences" xmlUrl="http://feeds.feedburner.com/feedburner/LSEImpactBlog"/>
-            <outline text="ROARS" type="rss" htmlUrl="https://www.roars.it/online" xmlUrl="https://www.roars.it/online/rss"/>
+            <outline text="ROARS" type="rss" htmlUrl="https://www.roars.it" xmlUrl="https://www.roars.it/online/rss"/>
         </outline>
         <outline text="Thinking">
-            <outline text="Farnam Street" type="rss" htmlUrl="https://fs.blog" xmlUrl="http://feeds.feedburner.com/68131"/>
+            <outline text="Farnam Street" type="rss" htmlUrl="https://fs.blog/" xmlUrl="http://feeds.feedburner.com/68131"/>
             <outline text="LessWrong" type="rss" htmlUrl="https://www.lesswrong.com" xmlUrl="https://www.lesswrong.com/feed.xml?view=curated-rss"/>
             <outline text="The Technium" type="rss" htmlUrl="https://kk.org/thetechnium" xmlUrl="https://feedpress.me/TheTechnium"/>
             <outline text="Superorganizers" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/1gsfh3obt7utn2w4.xml"/>
             <outline text="Quillette" type="rss" htmlUrl="https://quillette.com/" xmlUrl="https://quillette.com/rss/"/>
             <outline text="Fallacy Files" type="rss" htmlUrl="http://www.fallacyfiles.org/" xmlUrl="https://www.fallacyfiles.org/blogfeed.xml"/>
-            <outline text="Wait But Why" type="rss" htmlUrl="https://waitbutwhy.com" xmlUrl="https://waitbutwhy.com/rss"/>
+            <outline text="Wait But Why" type="rss" htmlUrl="https://waitbutwhy.com/" xmlUrl="https://waitbutwhy.com/rss"/>
         </outline>
         <outline text="Italy">
-            <outline text="Altreconomia" type="rss" htmlUrl="https://altreconomia.it" xmlUrl="https://altreconomia.it/rss"/>
-            <outline text="Antinomie" type="rss" htmlUrl="https://antinomie.it" xmlUrl="https://antinomie.it/index.php/feed/"/>
-            <outline text="cheFare" type="rss" htmlUrl="https://www.che-fare.com" xmlUrl="https://www.che-fare.com/feed/"/>
-            <outline text="Doppiozero" type="rss" htmlUrl="https://www.doppiozero.com" xmlUrl="https://www.doppiozero.com/rss.xml"/>
+            <outline text="Altreconomia" type="rss" htmlUrl="https://altreconomia.it/" xmlUrl="https://altreconomia.it/rss"/>
+            <outline text="Antinomie" type="rss" htmlUrl="https://antinomie.it/" xmlUrl="https://antinomie.it/index.php/feed/"/>
+            <outline text="cheFare" type="rss" htmlUrl="https://che-fare.com/" xmlUrl="https://www.che-fare.com/feed/"/>
+            <outline text="Doppiozero" type="rss" htmlUrl="https://www.doppiozero.com/" xmlUrl="https://www.doppiozero.com/rss.xml"/>
             <outline text="Flanerí" type="rss" htmlUrl="http://www.flaneri.com" xmlUrl="http://www.flaneri.com/feed/"/>
             <outline text="il lavoro culturale" type="rss" htmlUrl="https://www.lavoroculturale.org" xmlUrl="https://www.lavoroculturale.org/feed/"/>
             <outline text="il Tascabile" type="rss" htmlUrl="https://www.iltascabile.com" xmlUrl="https://www.iltascabile.com/feed/"/>
-            <outline text="Ippolita" type="rss" htmlUrl="https://www.ippolita.net" xmlUrl="https://www.ippolita.net/feed/"/>
-            <outline text="L'INDISCRETO" type="rss" htmlUrl="https://www.indiscreto.org" xmlUrl="https://www.indiscreto.org/feed/"/>
+            <outline text="Ippolita" type="rss" htmlUrl="https://www.ippolita.net/" xmlUrl="https://www.ippolita.net/feed/"/>
+            <outline text="L'INDISCRETO" type="rss" htmlUrl="https://www.indiscreto.org/" xmlUrl="https://www.indiscreto.org/feed/"/>
             <outline text="La Civiltà Cattolica" type="rss" htmlUrl="https://www.laciviltacattolica.it" xmlUrl="https://www.laciviltacattolica.it/feed/"/>
             <outline text="Le parole e le cose²" type="rss" htmlUrl="https://www.leparoleelecose.it" xmlUrl="http://www.leparoleelecose.it/?feed=rss2"/>
             <outline text="minima&amp;moralia" type="rss" htmlUrl="https://www.minimaetmoralia.it/wp" xmlUrl="http://www.minimaetmoralia.it/wp/feed/"/>
             <outline text="Nazione Indiana" type="rss" htmlUrl="https://www.nazioneindiana.com" xmlUrl="https://www.nazioneindiana.com/feed/"/>
-            <outline text="Scomodo" type="rss" htmlUrl="https://www.leggiscomodo.org" xmlUrl="https://www.leggiscomodo.org/feed/"/>
-            <outline text="ANSA.it" type="rss" htmlUrl="https://www.ansa.it/" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml"/>
+            <outline text="Scomodo" type="rss" htmlUrl="https://www.leggiscomodo.org/" xmlUrl="https://www.leggiscomodo.org/feed/"/>
+            <outline text="ANSA.it" type="rss" htmlUrl="https://www.ansa.it" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml"/>
             <outline text="Fanpage" type="rss" htmlUrl="https://www.fanpage.it" xmlUrl="https://www.fanpage.it/feed/"/>
-            <outline text="La Repubblica.it - Homepage" type="rss" htmlUrl="https://www.repubblica.it" xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml"/>
-            <outline text="Sbilanciamoci – L’economia com’è e come può essere. Per un’Italia capace di futuro" type="rss" htmlUrl="https://sbilanciamoci.info" xmlUrl="https://sbilanciamoci.info/feed/"/>
+            <outline text="La Repubblica.it - Homepage" type="rss" htmlUrl="https://repubblica.it" xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml"/>
+            <outline text="Sbilanciamoci – L’economia com’è e come può essere. Per un’Italia capace di futuro" type="rss" htmlUrl="https://sbilanciamoci.info/" xmlUrl="https://sbilanciamoci.info/feed/"/>
             <outline text="ARTICOLI in evidenza" type="rss" htmlUrl="https://sinistrainrete.info/" xmlUrl="https://sinistrainrete.info/index.php?format=feed&amp;type=rss"/>
             <outline text="Gli Stati Generali" type="rss" htmlUrl="https://www.glistatigenerali.com" xmlUrl="https://www.glistatigenerali.com/feed/"/>
-            <outline text="Il Post" type="rss" htmlUrl="https://www.ilpost.it" xmlUrl="https://www.ilpost.it/feed/"/>
             <outline text="PublicPolicy" type="rss" htmlUrl="https://www.publicpolicy.it" xmlUrl="https://www.publicpolicy.it/feed"/>
-            <outline text="the Submarine" type="rss" htmlUrl="https://thesubmarine.it" xmlUrl="https://thesubmarine.it/feed/"/>
+            <outline text="the Submarine" type="rss" htmlUrl="https://thesubmarine.it/" xmlUrl="https://thesubmarine.it/feed/"/>
             <outline text="Valigia Blu" type="rss" htmlUrl="https://www.valigiablu.it" xmlUrl="https://www.valigiablu.it/feed/"/>
             <outline text="YouTrend" type="rss" htmlUrl="https://www.youtrend.it" xmlUrl="https://www.youtrend.it/feed/"/>
             <outline text="Rivista il Mulino" type="rss" htmlUrl="http://www.rivistailmulino.it" xmlUrl="http://www.rivistailmulino.it/rss/all"/>
-            <outline text="Lavoce.info" type="rss" htmlUrl="https://www.lavoce.info" xmlUrl="https://www.lavoce.info/rss"/>
+            <outline text="Lavoce.info" type="rss" htmlUrl="https://www.lavoce.info/" xmlUrl="https://www.lavoce.info/rss"/>
             <outline text="Corriere.it - Homepage" type="rss" htmlUrl="https://www.corriere.it" xmlUrl="http://xml2.corriereobjects.it/rss/homepage.xml"/>
             <outline text="RomaToday" type="rss" htmlUrl="https://www.romatoday.it/" xmlUrl="https://www.romatoday.it/rss"/>
             <outline text="Domani" type="rss" htmlUrl="https://www.editorialedomani.it" xmlUrl="https://www.editorialedomani.it/rss"/>
         </outline>
         <outline text="Impact">
-            <outline text="80,000 Hours" type="rss" htmlUrl="https://80000hours.org" xmlUrl="https://80000hours.org/feed/atom/"/>
+            <outline text="80,000 Hours" type="rss" htmlUrl="https://80000hours.org/" xmlUrl="https://80000hours.org/feed/atom/"/>
             <outline text="Effective Altruism Forum" type="rss" htmlUrl="https://forum.effectivealtruism.org" xmlUrl="https://forum.effectivealtruism.org/feed.xml?view=frontpage-rss&amp;karmaThreshold=45"/>
             <outline text="The Giving What We Can Blog" type="rss" htmlUrl="https://www.givingwhatwecan.org" xmlUrl="https://www.givingwhatwecan.org/blog.xml"/>
-            <outline text="The GiveWell Blog" type="rss" htmlUrl="https://blog.givewell.org" xmlUrl="https://blog.givewell.org/feed/"/>
+            <outline text="The GiveWell Blog" type="rss" htmlUrl="https://blog.givewell.org/" xmlUrl="https://blog.givewell.org/feed/"/>
             <outline text="Gates Open Research" type="rss" htmlUrl="http://gatesopenresearch.org" xmlUrl="https://gatesopenresearch.org/published/rss"/>
-            <outline text="Blog" type="rss" htmlUrl="https://www.openphilanthropy.org/" xmlUrl="https://www.openphilanthropy.org/blog/rss"/>
             <outline text="Vox -  Future Perfect" type="rss" htmlUrl="https://www.vox.com/future-perfect" xmlUrl="https://www.vox.com/rss/future-perfect/index.xml"/>
-            <outline text="The Blog – The Borgen Project" type="rss" htmlUrl="https://borgenproject.org" xmlUrl="https://borgenproject.org/blog/feed/"/>
+            <outline text="The Blog – The Borgen Project" type="rss" htmlUrl="https://borgenproject.org/blog/" xmlUrl="https://borgenproject.org/blog/feed/"/>
             <outline text="Our World in Data" type="rss" htmlUrl="https://ourworldindata.org" xmlUrl="https://ourworldindata.org/feed"/>
             <outline text="Cold Takes" type="rss" htmlUrl="https://www.cold-takes.com/" xmlUrl="https://www.cold-takes.com/rss/"/>
             <outline text="GiveDirectly" type="rss" htmlUrl="https://www.givedirectly.org" xmlUrl="https://www.givedirectly.org/feed/"/>
@@ -79,36 +77,36 @@
             <outline text="EnergyPost.eu" type="rss" htmlUrl="https://energypost.eu" xmlUrl="https://energypost.eu/feed/"/>
             <outline text="IAEA Top News RSS Feed" type="rss" htmlUrl="https://www.iaea.org/" xmlUrl="https://www.iaea.org/feeds/topnews"/>
             <outline text="Nuclear Fusion" type="rss" htmlUrl="https://www.reddit.com/r/fusion/" xmlUrl="https://www.reddit.com/r/fusion/.rss"/>
-            <outline text="Forbes - Energy" type="rss" htmlUrl="https://www.forbes.com/energy/" xmlUrl="https://www.forbes.com/energy/feed/"/>
-            <outline text="Energy Watch Group" type="rss" htmlUrl="https://www.energywatchgroup.org" xmlUrl="https://www.energywatchgroup.org/feed"/>
             <outline text="Clean Energy Wire" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/g68mca0swml1ild5.xml"/>
             <outline text="&quot;&quot;nuclear fusion&quot; -fission&quot; - Google News" type="rss" htmlUrl="https://news.google.com/search?q=%22nuclear+fusion%22+-fission&amp;hl=en&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" xmlUrl="https://news.google.com/rss/search?q=%22nuclear+fusion%22+-fission&amp;amp;hl=en&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
             <outline text="World Nuclear News" type="rss" htmlUrl="https://www.world-nuclear-news.org/?rss=feed" xmlUrl="https://www.world-nuclear-news.org/?rss=feed"/>
+            <outline text="Sustainability by numbers" type="rss" htmlUrl="https://www.sustainabilitybynumbers.com" xmlUrl="https://www.sustainabilitybynumbers.com/feed"/>
         </outline>
         <outline text="AI &amp; ML">
             <outline text="Nature Machine Intelligence" type="rss" htmlUrl="http://feeds.nature.com/natmachintell/rss/current" xmlUrl="http://feeds.nature.com/natmachintell/rss/current"/>
             <outline text="Facebook Research" type="rss" htmlUrl="https://research.facebook.com/" xmlUrl="https://research.fb.com/feed/"/>
             <outline text="DeepMind" type="rss" htmlUrl="https://www.deepmind.com" xmlUrl="https://deepmind.com/blog/feed/basic/"/>
-            <outline text="Google AI Blog" type="rss" htmlUrl="http://ai.googleblog.com/" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg"/>
-            <outline text="OpenAI" type="rss" htmlUrl="https://openai.com/" xmlUrl="https://openai.com/blog/rss/"/>
+            <outline text="Google AI Blog" type="rss" htmlUrl="http://blog.research.google/" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg"/>
+            <outline text="OpenAI" type="rss" htmlUrl="https://openai.com/blog" xmlUrl="https://openai.com/blog/rss/"/>
             <outline text="Pete Warden's blog" type="rss" htmlUrl="https://petewarden.com" xmlUrl="https://petewarden.com/feed/"/>
             <outline text="Sebastian Ruder" type="rss" htmlUrl="http://ruder.io/" xmlUrl="https://ruder.io/rss/index.rss"/>
             <outline text="The Berkeley Artificial Intelligence Research Blog" type="rss" htmlUrl="http://bair.berkeley.edu/blog/" xmlUrl="https://bair.berkeley.edu/blog/feed.xml"/>
+            <outline text="Alpha Signal" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/5y503lhbsvex853s.xml"/>
+            <outline text="The Batch" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/ut85c5xzqjs18uh5.xml"/>
         </outline>
         <outline text="Business">
             <outline text="deutsche-startups.de" type="rss" htmlUrl="https://www.deutsche-startups.de" xmlUrl="https://www.deutsche-startups.de/feed/"/>
             <outline text="Fast Company" type="rss" htmlUrl="https://www.fastcompany.com" xmlUrl="http://www.fastcompany.com/rss.xml"/>
             <outline text="CBInsights" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/rvxs99s8vkv39mof.xml"/>
             <outline text="Sifted Newsletter" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/0h7lqh9tn2flc8kh.xml"/>
-            <outline text="Latest from Sifted – Sifted" type="rss" htmlUrl="https://sifted.eu/latest/" xmlUrl="https://sifted.eu/feed/?post_type=article"/>
-            <outline text="No Mercy / No Malice" type="rss" htmlUrl="https://www.profgalloway.com" xmlUrl="https://www.profgalloway.com/rss"/>
+            <outline text="Latest from Sifted – Sifted" type="rss" htmlUrl="https://sifted.eu/" xmlUrl="https://sifted.eu/feed/?post_type=article"/>
+            <outline text="No Mercy / No Malice" type="rss" htmlUrl="https://www.profgalloway.com/" xmlUrl="https://www.profgalloway.com/rss"/>
             <outline text="Every" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/slsnfwuz12k2moaw.xml"/>
             <outline text="EU-Startups" type="rss" htmlUrl="https://www.eu-startups.com/" xmlUrl="https://www.eu-startups.com/rss"/>
         </outline>
         <outline text="Computing">
             <outline text="Guerre di Rete" type="rss" htmlUrl="https://guerredirete.substack.com" xmlUrl="https://guerredirete.substack.com/feed/"/>
             <outline text="Phoronix" type="rss" htmlUrl="https://www.phoronix.com/" xmlUrl="https://www.phoronix.com/rss.php"/>
-            <outline text="The Linux Foundation" type="rss" htmlUrl="https://www.linuxfoundation.org" xmlUrl="https://www.linuxfoundation.org/feed/"/>
             <outline text="RISC-V International" type="rss" htmlUrl="https://riscv.org" xmlUrl="https://riscv.org/feed/"/>
         </outline>
         <outline text="Science">
@@ -121,7 +119,7 @@
             <outline text="Nature Communications - current - nature.com science feeds" type="rss" htmlUrl="http://feeds.nature.com/ncomms/rss/current" xmlUrl="http://feeds.nature.com/ncomms/rss/current"/>
         </outline>
         <outline text="Space">
-            <outline text="Space.com" type="rss" htmlUrl="https://www.space.com/feeds/all" xmlUrl="https://www.space.com/feeds/all"/>
+            <outline text="Space.com" type="rss" htmlUrl="https://www.space.com" xmlUrl="https://www.space.com/feeds/all"/>
         </outline>
         <outline text="Food">
             <outline text="The Good Food Institute" type="rss" htmlUrl="https://gfi.org" xmlUrl="https://www.gfi.org/rss.xml"/>
@@ -129,77 +127,77 @@
         </outline>
         <outline text="Alternative">
             <outline text="Rete Voltaire" type="rss" htmlUrl="https://www.voltairenet.org/" xmlUrl="https://www.voltairenet.org/spip.php?page=backend&amp;id_secteur=1110&amp;lang=it"/>
-            <outline text="Strategic Culture Foundation" type="rss" htmlUrl="https://www.strategic-culture.org" xmlUrl="https://www.strategic-culture.org/feed/"/>
             <outline text="The Unz Review:" type="rss" htmlUrl="https://www.unz.com" xmlUrl="https://www.unz.com/feed/"/>
             <outline text="The Vineyard of the Saker" type="rss" htmlUrl="https://thesaker.is" xmlUrl="https://thesaker.is/feed/"/>
         </outline>
         <outline text="History &amp; Philosophy">
             <outline text="ADAM TOOZE" type="rss" htmlUrl="https://adamtooze.com" xmlUrl="https://adamtooze.com/feed/"/>
             <outline text="francocardini.it" type="rss" htmlUrl="https://www.francocardini.it" xmlUrl="https://www.francocardini.it/feed/"/>
-            <outline text="Gennaro Carotenuto" type="rss" htmlUrl="https://www.gennarocarotenuto.it" xmlUrl="https://feeds.feedburner.com/gc"/>
+            <outline text="Gennaro Carotenuto" type="rss" htmlUrl="https://www.gennarocarotenuto.it/" xmlUrl="https://feeds.feedburner.com/gc"/>
             <outline text="Mario Del Pero" type="rss" htmlUrl="https://mariodelpero.italianieuropei.it" xmlUrl="https://mariodelpero.italianieuropei.it/feed/"/>
-            <outline text="Nec Pluribus Impar" type="rss" htmlUrl="https://necpluribusimpar.net" xmlUrl="https://necpluribusimpar.net/feed/"/>
+            <outline text="Nec Pluribus Impar" type="rss" htmlUrl="https://necpluribusimpar.net/" xmlUrl="https://necpluribusimpar.net/feed/"/>
             <outline text="Peter Turchin" type="rss" htmlUrl="https://peterturchin.com" xmlUrl="http://peterturchin.com/feed/"/>
             <outline text="Short Cuts America: il blog di Arnaldo Testi" type="rss" htmlUrl="https://shortcutsamerica.com" xmlUrl="https://shortcutsamerica.com/feed/"/>
         </outline>
         <outline text="Economics &amp; Finance">
-            <outline text="Valori" type="rss" htmlUrl="https://valori.it" xmlUrl="https://valori.it/rss"/>
-            <outline text="Emiliano Brancaccio" type="rss" htmlUrl="https://www.emilianobrancaccio.it" xmlUrl="https://www.emilianobrancaccio.it/feed/"/>
+            <outline text="Valori" type="rss" htmlUrl="https://valori.it/" xmlUrl="https://valori.it/rss"/>
+            <outline text="Emiliano Brancaccio" type="rss" htmlUrl="https://www.emilianobrancaccio.it/" xmlUrl="https://www.emilianobrancaccio.it/feed/"/>
             <outline text="Keynes blog" type="rss" htmlUrl="https://keynesblog.com" xmlUrl="https://keynesblog.com/feed/"/>
-            <outline text="Lavoce.info" type="rss" htmlUrl="https://www.lavoce.info" xmlUrl="https://www.lavoce.info/feed/"/>
+            <outline text="Lavoce.info" type="rss" htmlUrl="https://www.lavoce.info/" xmlUrl="https://www.lavoce.info/feed/"/>
             <outline text="Phastidio.net" type="rss" htmlUrl="https://phastidio.net" xmlUrl="https://phastidio.net/feed/"/>
-            <outline text="VoxEU.org: Recent Articles" type="rss" htmlUrl="https://voxeu.org/" xmlUrl="https://voxeu.org/feed/recent/rss.xml"/>
             <outline text="Il Sole 24 ORE -  Finanza" type="rss" htmlUrl="https://www.ilsole24ore.com" xmlUrl="https://www.ilsole24ore.com/rss/finanza--quotate-italia.xml"/>
             <outline text="The Economist: The world this week" type="rss" htmlUrl="https://www.economist.com/the-world-this-week/" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml"/>
+            <outline text="Recent VoxEU Content" type="rss" htmlUrl="https://cepr.org/" xmlUrl="https://cepr.org/rss/vox-content"/>
+            <outline text="Recent news" type="rss" htmlUrl="https://cepr.org/" xmlUrl="https://cepr.org/rss/news"/>
         </outline>
         <outline text="Germany">
             <outline text="DER SPIEGEL - Schlagzeilen" type="rss" htmlUrl="https://www.spiegel.de/" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss"/>
-            <outline text="taz.de - Artikel aus der Onlineausgabe" type="rss" htmlUrl="http://www.taz.de/Archiv-Suche/!5824065&amp;s=/" xmlUrl="https://taz.de/!s=&amp;ExportStatus=Intern&amp;SuchRahmen=Online;rss/"/>
+            <outline text="taz.de - Artikel aus der Onlineausgabe" type="rss" htmlUrl="http://www.taz.de/Archiv-Suche/!5990222&amp;s=/" xmlUrl="https://taz.de/!s=&amp;ExportStatus=Intern&amp;SuchRahmen=Online;rss/"/>
             <outline text="Deutsche Welle" type="rss" htmlUrl="http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
             <outline text="Telepolis" type="rss" htmlUrl="https://www.heise.de/tp/" xmlUrl="http://www.heise.de/tp/news-atom.xml"/>
             <outline text="netzpolitik.org" type="rss" htmlUrl="https://netzpolitik.org" xmlUrl="https://netzpolitik.org/feed"/>
             <outline text="Nachrichten" type="rss" htmlUrl="https://www.nachrichtenleicht.de/nachrichtenleicht-nachrichten-100.html" xmlUrl="https://www.nachrichtenleicht.de/nachrichtenleicht-nachrichten-100.rss"/>
         </outline>
         <outline text="Europe">
-            <outline text="East Journal" type="rss" htmlUrl="https://www.eastjournal.net" xmlUrl="https://www.eastjournal.net/feed"/>
+            <outline text="East Journal" type="rss" htmlUrl="https://www.eastjournal.net/" xmlUrl="https://www.eastjournal.net/feed"/>
         </outline>
         <outline text="Asia">
-            <outline text="Pekingnology" type="rss" htmlUrl="https://pekingnology.substack.com" xmlUrl="https://pekingnology.substack.com/feed"/>
+            <outline text="Pekingnology" type="rss" htmlUrl="https://www.pekingnology.com" xmlUrl="https://pekingnology.substack.com/feed"/>
             <outline text="Andrew Batson's Blog" type="rss" htmlUrl="https://andrewbatson.com" xmlUrl="https://andrewbatson.com/feed/"/>
-            <outline text="Asia Times" type="rss" htmlUrl="https://asiatimes.com" xmlUrl="https://asiatimes.com/feed/"/>
-            <outline text="China Files" type="rss" htmlUrl="https://www.china-files.com" xmlUrl="https://www.china-files.com/feed/"/>
+            <outline text="Asia Times" type="rss" htmlUrl="https://asiatimes.com/" xmlUrl="https://asiatimes.com/feed/"/>
+            <outline text="China Files" type="rss" htmlUrl="https://follow.it/china-files-reports-from-asia" xmlUrl="https://www.china-files.com/feed/"/>
             <outline text="Expertise Asia" type="rss" htmlUrl="http://www.expertise-asia.com" xmlUrl="http://www.expertise-asia.com/feed"/>
-            <outline text="MacroPolo" type="rss" htmlUrl="https://macropolo.org" xmlUrl="https://macropolo.org/feed/"/>
-            <outline text="What's on Weibo" type="rss" htmlUrl="https://www.whatsonweibo.com" xmlUrl="https://www.whatsonweibo.com/feed/"/>
+            <outline text="MacroPolo" type="rss" htmlUrl="https://macropolo.org/" xmlUrl="https://macropolo.org/feed/"/>
+            <outline text="What's on Weibo" type="rss" htmlUrl="https://www.whatsonweibo.com/" xmlUrl="https://www.whatsonweibo.com/feed/"/>
         </outline>
         <outline text="US, UK, World">
             <outline text="BBC News" type="rss" htmlUrl="https://www.bbc.co.uk/news/" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
             <outline text="CNN.com - RSS Channel - App International Edition" type="rss" htmlUrl="https://www.cnn.com/app-international-edition/index.html" xmlUrl="http://rss.cnn.com/rss/edition.rss"/>
-            <outline text="Everything" type="rss" htmlUrl="https://www.newyorker.com/everything" xmlUrl="https://www.newyorker.com/feed/everything"/>
+            <outline text="Everything" type="rss" htmlUrl="https://www.newyorker.com" xmlUrl="https://www.newyorker.com/feed/everything"/>
             <outline text="NYT &gt; World News" type="rss" htmlUrl="https://www.nytimes.com/section/world" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml"/>
             <outline text="POLITICO" type="rss" htmlUrl="https://www.politico.eu" xmlUrl="https://www.politico.eu/feed/"/>
-            <outline text="Reveal » Reveal" type="rss" htmlUrl="https://revealnews.org" xmlUrl="https://www.revealnews.org/feed/"/>
+            <outline text="Reveal » Reveal" type="rss" htmlUrl="https://revealnews.org/" xmlUrl="https://www.revealnews.org/feed/"/>
             <outline text="Le Monde.fr - Actualités et Infos en France et dans le monde" type="rss" htmlUrl="https://www.lemonde.fr/rss/une.xml" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
             <outline text="FiveThirtyEight » Features | FiveThirtyEight" type="rss" htmlUrl="https://fivethirtyeight.com" xmlUrl="https://fivethirtyeight.com/features/feed/"/>
             <outline text="ICIJ" type="rss" htmlUrl="https://www.icij.org" xmlUrl="https://www.icij.org/feed"/>
             <outline text="Vox - All" type="rss" htmlUrl="https://www.vox.com/" xmlUrl="https://www.vox.com/rss/index.xml"/>
-            <outline text="BBC News - World" type="rss" htmlUrl="https://www.bbc.co.uk/news/" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
+            <outline text="BBC News - World" type="rss" htmlUrl="https://www.bbc.co.uk/news/world" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
             <outline text="The Browser" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/o6mon4s2n4fde60i.xml"/>
         </outline>
         <outline text="Left">
             <outline text="DINAMOpress" type="rss" htmlUrl="https://www.dinamopress.it" xmlUrl="https://www.dinamopress.it/feed/"/>
-            <outline text="Effimera" type="rss" htmlUrl="http://effimera.org" xmlUrl="http://effimera.org/feed/"/>
-            <outline text="EuroNomade" type="rss" htmlUrl="http://www.euronomade.info" xmlUrl="http://www.euronomade.info/?feed=rss2"/>
+            <outline text="Effimera" type="rss" htmlUrl="https://effimera.org/" xmlUrl="http://effimera.org/feed/"/>
+            <outline text="EuroNomade" type="rss" htmlUrl="https://www.euronomade.info/" xmlUrl="http://www.euronomade.info/?feed=rss2"/>
             <outline text="Giap" type="rss" htmlUrl="https://www.wumingfoundation.com/giap" xmlUrl="https://www.wumingfoundation.com/giap/feed/"/>
             <outline text="La Fionda" type="rss" htmlUrl="https://www.lafionda.org" xmlUrl="https://www.lafionda.org/feed/"/>
             <outline text="Marxismo Oggi | Nuova serie" type="rss" htmlUrl="https://www.marxismo-oggi.it/" xmlUrl="https://www.marxismo-oggi.it/?format=feed&amp;type=rss"/>
-            <outline text="spiked" type="rss" htmlUrl="https://www.spiked-online.com" xmlUrl="https://www.spiked-online.com/feed/"/>
+            <outline text="spiked" type="rss" htmlUrl="https://www.spiked-online.com/" xmlUrl="https://www.spiked-online.com/feed/"/>
         </outline>
         <outline text="Liberal">
-            <outline text="Quillette" type="rss" htmlUrl="https://quillette.com/" xmlUrl="https://quillette.com/feed/"/>
+            <outline text="Quillette" type="rss" htmlUrl="https://quillette.com/" xmlUrl="https://quillette.com/articles/rss/"/>
         </outline>
         <outline text="Right">
-            <outline text="Atlantico Quotidiano" type="rss" htmlUrl="http://www.atlanticoquotidiano.it" xmlUrl="http://www.atlanticoquotidiano.it/feed/"/>
+            <outline text="Atlantico Quotidiano" type="rss" htmlUrl="https://www.nicolaporro.it/atlanticoquotidiano/" xmlUrl="http://www.atlanticoquotidiano.it/feed/"/>
             <outline text="Istituto Bruno Leoni" type="rss" htmlUrl="http://www.brunoleoni.it" xmlUrl="http://www.brunoleoni.it/rss/rss_notifiche.xml"/>
             <outline text="LibertàEguale" type="rss" htmlUrl="http://www.libertaeguale.it" xmlUrl="http://www.libertaeguale.it/feed/"/>
             <outline text="Strade - Home" type="rss" htmlUrl="https://www.stradeonline.it/" xmlUrl="https://www.stradeonline.it/?format=feed&amp;type=rss"/>
@@ -210,42 +208,44 @@
             <outline text="IAI - Istituto Affari Internazionali" type="rss" htmlUrl="https://www.iai.it/it/rss.xml" xmlUrl="https://www.iai.it/it/rss.xml"/>
             <outline text="ISPI - Istituto per gli studi di politica internazionale" type="rss" htmlUrl="https://www.ispionline.it/it/front/37/articoli/articolo/node/478" xmlUrl="https://www.ispionline.it/rss.xml"/>
             <outline text="Moon of Alabama" type="rss" htmlUrl="https://www.moonofalabama.org/" xmlUrl="https://www.moonofalabama.org/atom.xml"/>
-            <outline text="Responsible Statecraft" type="rss" htmlUrl="https://responsiblestatecraft.org" xmlUrl="https://responsiblestatecraft.org/feed/"/>
-            <outline text="Dissent MagazineDissent Magazine" type="rss" htmlUrl="https://www.dissentmagazine.org" xmlUrl="https://www.dissentmagazine.org/feed"/>
+            <outline text="Responsible Statecraft" type="rss" htmlUrl="https://responsiblestatecraft.org/" xmlUrl="https://responsiblestatecraft.org/feed/"/>
+            <outline text="Dissent MagazineDissent Magazine" type="rss" htmlUrl="https://www.dissentmagazine.org/" xmlUrl="https://www.dissentmagazine.org/feed"/>
             <outline text="Internazionale" type="rss" htmlUrl="https://www.internazionale.it/" xmlUrl="https://www.internazionale.it/sitemaps/rss.xml"/>
             <outline text="Istituto di Politica" type="rss" htmlUrl="https://www.istitutodipolitica.it" xmlUrl="https://www.istitutodipolitica.it/feed/"/>
             <outline text="Italianieuropei" type="rss" htmlUrl="https://www.italianieuropei.it" xmlUrl="http://feeds.feedburner.com/italianieuropei"/>
-            <outline text="Jacobin" type="rss" htmlUrl="https://jacobinmag.com/2021/10/astra-taylor-book-review-remake-the-world/" xmlUrl="https://jacobinmag.com/feed/"/>
+            <outline text="Jacobin" type="rss" htmlUrl="https://jacobin.com/2024/02/nba-israel-palestine-draymond-green-lebron-james/" xmlUrl="https://jacobinmag.com/feed/"/>
             <outline text="Left" type="rss" htmlUrl="https://left.it" xmlUrl="https://left.it/feed/"/>
             <outline text="memeorandum" type="rss" htmlUrl="http://www.memeorandum.com/" xmlUrl="https://www.memeorandum.com/feed.xml"/>
             <outline text="Not" type="rss" htmlUrl="https://not.neroeditions.com" xmlUrl="https://not.neroeditions.com/feed/"/>
-            <outline text="Social Europe" type="rss" htmlUrl="https://socialeurope.eu" xmlUrl="https://www.socialeurope.eu/feed"/>
-            <outline text="Strisciarossa" type="rss" htmlUrl="https://www.strisciarossa.it" xmlUrl="http://www.strisciarossa.it/feed/"/>
+            <outline text="Social Europe" type="rss" htmlUrl="https://www.socialeurope.eu" xmlUrl="https://www.socialeurope.eu/feed"/>
+            <outline text="Strisciarossa" type="rss" htmlUrl="https://www.strisciarossa.it/" xmlUrl="http://www.strisciarossa.it/feed/"/>
             <outline text="The Atlantic" type="rss" htmlUrl="https://www.theatlantic.com/" xmlUrl="https://www.theatlantic.com/feed/all/"/>
-            <outline text="The Intercept" type="rss" htmlUrl="https://theintercept.com" xmlUrl="https://theintercept.com/feed"/>
+            <outline text="The Intercept" type="rss" htmlUrl="https://theintercept.com/" xmlUrl="https://theintercept.com/feed"/>
             <outline text="Harvard International Review" type="rss" htmlUrl="https://hir.harvard.edu/" xmlUrl="https://hir.harvard.edu/rss/"/>
         </outline>
         <outline text="Blogs">
-            <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/bfaq" xmlUrl="https://sive.rs/en.atom"/>
-            <outline text="Astral Codex Ten" type="rss" htmlUrl="https://astralcodexten.substack.com" xmlUrl="https://astralcodexten.substack.com/feed"/>
+            <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/wt" xmlUrl="https://sive.rs/en.atom"/>
+            <outline text="Astral Codex Ten" type="rss" htmlUrl="https://www.astralcodexten.com" xmlUrl="https://astralcodexten.substack.com/feed"/>
             <outline text="Gwern.net Newsletter" type="rss" htmlUrl="https://gwern.substack.com" xmlUrl="https://gwern.substack.com/feed/"/>
-            <outline text="The Blog of Author Tim Ferriss » Blog" type="rss" htmlUrl="https://tim.blog" xmlUrl="http://feeds.feedburner.com/TimFerriss"/>
+            <outline text="The Blog of Author Tim Ferriss » Blog" type="rss" htmlUrl="https://feed.feedburster.com/timferriss/website" xmlUrl="http://feeds.feedburner.com/TimFerriss"/>
             <outline text="Paul Graham: Essays" type="rss" htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
             <outline text="Bert Hubert's writings" type="rss" htmlUrl="https://berthub.eu/articles/" xmlUrl="https://berthub.eu/articles/index.xml"/>
-            <outline text="Scott H Young" type="rss" htmlUrl="https://www.scotthyoung.com/blog" xmlUrl="https://www.scotthyoung.com/blog/rss"/>
+            <outline text="Scott H Young" type="rss" htmlUrl="https://www.scotthyoung.com/blog/" xmlUrl="https://www.scotthyoung.com/blog/rss"/>
             <outline text="benkuhn.net" type="rss" htmlUrl="https://www.benkuhn.net/" xmlUrl="https://www.benkuhn.net/index.xml"/>
             <outline text="Jakob Greenfeld" type="rss" htmlUrl="http://jakobgreenfeld.com/" xmlUrl="https://jakobgreenfeld.com/feed"/>
             <outline text="Overcoming Bias" type="rss" htmlUrl="https://www.overcomingbias.com" xmlUrl="https://www.overcomingbias.com/rss"/>
             <outline text="Steve Blank" type="rss" htmlUrl="https://steveblank.com" xmlUrl="https://steveblank.com/feed/"/>
+            <outline text="Calvin Rosser" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/73qdnnvr6h6mnex4.xml"/>
+            <outline text="Daniel Schmachtenberger" type="rss" htmlUrl="https://civilizationemerging.com" xmlUrl="https://civilizationemerging.com/rss"/>
         </outline>
         <outline text="Technology">
-            <outline text="Feed: All Latest" type="rss" htmlUrl="https://www.wired.com/latest" xmlUrl="https://www.wired.com/feed"/>
+            <outline text="Feed: All Latest" type="rss" htmlUrl="https://www.wired.com" xmlUrl="https://www.wired.com/feed"/>
         </outline>
         <outline text="Climate Change">
             <outline text="Climate-change mitigation : nature.com subject feeds" type="rss" htmlUrl="https://www.nature.com/subjects/climate-change-mitigation" xmlUrl="https://www.nature.com/subjects/climate-change-mitigation.rss"/>
         </outline>
         <outline text="F1">
-            <outline text="Formula 1 News" type="rss" htmlUrl="https://www.formula1.com" xmlUrl="https://www.formula1.com/content/fom-website/en/latest/all.xml"/>
+            <outline text="Formula 1 News" type="rss" htmlUrl="https://formula1.com" xmlUrl="https://www.formula1.com/content/fom-website/en/latest/all.xml"/>
             <outline text="Autosport.com - Formula 1 - Stories" type="rss" htmlUrl="https://www.autosport.com/f1/news/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" xmlUrl="https://www.autosport.com/rss/f1/news/"/>
         </outline>
     </body>
