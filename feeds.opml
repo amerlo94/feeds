@@ -1,252 +1,240 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<opml version="2.0">
-    <head>
-        <title>QuiteRSS</title>
-        <dateModified>Sun Feb 18 19:43:52 2024</dateModified>
-    </head>
-    <body>
-        <outline text="Research Feed">
-            <outline text="stat.ML updates on arXiv.org" type="rss" htmlUrl="http://rss.arxiv.org/rss/stat.ML" xmlUrl="http://arxiv.org/rss/stat.ML"/>
-            <outline text="physics.plasm-ph updates on arXiv.org" type="rss" htmlUrl="http://rss.arxiv.org/rss/physics.plasm-ph" xmlUrl="http://export.arxiv.org/rss/physics.plasm-ph"/>
-            <outline text="IOPscience Full Text Search" type="rss" htmlUrl="http://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515" xmlUrl="https://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515"/>
-            <outline text="IOPscience Full Text Search - Reactor" type="rss" htmlUrl="http://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515&amp;terms=reactor" xmlUrl="https://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515&amp;terms=reactor"/>
-            <outline text="Nature Reviews Materials - nature.com science feeds" type="rss" htmlUrl="http://feeds.nature.com/natrevmats/rss/current" xmlUrl="http://feeds.nature.com/natrevmats/rss/current"/>
-            <outline text="Nature Energy" type="rss" htmlUrl="http://feeds.nature.com/nenergy/rss/current" xmlUrl="http://feeds.nature.com/nenergy/rss/current"/>
-        </outline>
-        <outline text="Research">
-            <outline text="A Happy PhD" type="rss" htmlUrl="https://ahappyphd.org/" xmlUrl="https://ahappyphd.org/index.xml"/>
-            <outline text="Shtetl-Optimized" type="rss" htmlUrl="https://scottaaronson.blog" xmlUrl="https://www.scottaaronson.com/blog/?feed=rss2"/>
-            <outline text="Terence Tao - What's new" type="rss" htmlUrl="https://terrytao.wordpress.com" xmlUrl="https://terrytao.wordpress.com/feed/"/>
-            <outline text="Business and Editorial articles from Science Careers" type="rss" htmlUrl="http://www.sciencemag.org/rss/careers-latest.xml" xmlUrl="https://www.sciencemag.org/rss/careers-latest.xml"/>
-            <outline text="Impact of Social Sciences" type="rss" htmlUrl="https://blogs.lse.ac.uk/impactofsocialsciences" xmlUrl="http://feeds.feedburner.com/feedburner/LSEImpactBlog"/>
-            <outline text="ROARS" type="rss" htmlUrl="https://www.roars.it" xmlUrl="https://www.roars.it/online/rss"/>
-        </outline>
-        <outline text="Thinking">
-            <outline text="Farnam Street" type="rss" htmlUrl="https://fs.blog/" xmlUrl="http://feeds.feedburner.com/68131"/>
-            <outline text="LessWrong" type="rss" htmlUrl="https://www.lesswrong.com" xmlUrl="https://www.lesswrong.com/feed.xml?view=curated-rss"/>
-            <outline text="The Technium" type="rss" htmlUrl="https://kk.org/thetechnium" xmlUrl="https://feedpress.me/TheTechnium"/>
-            <outline text="Superorganizers" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/1gsfh3obt7utn2w4.xml"/>
-            <outline text="Quillette" type="rss" htmlUrl="https://quillette.com/" xmlUrl="https://quillette.com/rss/"/>
-            <outline text="Fallacy Files" type="rss" htmlUrl="http://www.fallacyfiles.org/" xmlUrl="https://www.fallacyfiles.org/blogfeed.xml"/>
-            <outline text="Wait But Why" type="rss" htmlUrl="https://waitbutwhy.com/" xmlUrl="https://waitbutwhy.com/rss"/>
-        </outline>
-        <outline text="Italy">
-            <outline text="Altreconomia" type="rss" htmlUrl="https://altreconomia.it/" xmlUrl="https://altreconomia.it/rss"/>
-            <outline text="Antinomie" type="rss" htmlUrl="https://antinomie.it/" xmlUrl="https://antinomie.it/index.php/feed/"/>
-            <outline text="cheFare" type="rss" htmlUrl="https://che-fare.com/" xmlUrl="https://www.che-fare.com/feed/"/>
-            <outline text="Doppiozero" type="rss" htmlUrl="https://www.doppiozero.com/" xmlUrl="https://www.doppiozero.com/rss.xml"/>
-            <outline text="Flanerí" type="rss" htmlUrl="http://www.flaneri.com" xmlUrl="http://www.flaneri.com/feed/"/>
-            <outline text="il lavoro culturale" type="rss" htmlUrl="https://www.lavoroculturale.org" xmlUrl="https://www.lavoroculturale.org/feed/"/>
-            <outline text="il Tascabile" type="rss" htmlUrl="https://www.iltascabile.com" xmlUrl="https://www.iltascabile.com/feed/"/>
-            <outline text="Ippolita" type="rss" htmlUrl="https://www.ippolita.net/" xmlUrl="https://www.ippolita.net/feed/"/>
-            <outline text="L'INDISCRETO" type="rss" htmlUrl="https://www.indiscreto.org/" xmlUrl="https://www.indiscreto.org/feed/"/>
-            <outline text="La Civiltà Cattolica" type="rss" htmlUrl="https://www.laciviltacattolica.it" xmlUrl="https://www.laciviltacattolica.it/feed/"/>
-            <outline text="Le parole e le cose²" type="rss" htmlUrl="https://www.leparoleelecose.it" xmlUrl="http://www.leparoleelecose.it/?feed=rss2"/>
-            <outline text="minima&amp;moralia" type="rss" htmlUrl="https://www.minimaetmoralia.it/wp" xmlUrl="http://www.minimaetmoralia.it/wp/feed/"/>
-            <outline text="Nazione Indiana" type="rss" htmlUrl="https://www.nazioneindiana.com" xmlUrl="https://www.nazioneindiana.com/feed/"/>
-            <outline text="Scomodo" type="rss" htmlUrl="https://www.leggiscomodo.org/" xmlUrl="https://www.leggiscomodo.org/feed/"/>
-            <outline text="ANSA.it" type="rss" htmlUrl="https://www.ansa.it" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml"/>
-            <outline text="Fanpage" type="rss" htmlUrl="https://www.fanpage.it" xmlUrl="https://www.fanpage.it/feed/"/>
-            <outline text="La Repubblica.it - Homepage" type="rss" htmlUrl="https://repubblica.it" xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml"/>
-            <outline text="Sbilanciamoci – L’economia com’è e come può essere. Per un’Italia capace di futuro" type="rss" htmlUrl="https://sbilanciamoci.info/" xmlUrl="https://sbilanciamoci.info/feed/"/>
-            <outline text="ARTICOLI in evidenza" type="rss" htmlUrl="https://sinistrainrete.info/" xmlUrl="https://sinistrainrete.info/index.php?format=feed&amp;type=rss"/>
-            <outline text="Gli Stati Generali" type="rss" htmlUrl="https://www.glistatigenerali.com" xmlUrl="https://www.glistatigenerali.com/feed/"/>
-            <outline text="PublicPolicy" type="rss" htmlUrl="https://www.publicpolicy.it" xmlUrl="https://www.publicpolicy.it/feed"/>
-            <outline text="the Submarine" type="rss" htmlUrl="https://thesubmarine.it/" xmlUrl="https://thesubmarine.it/feed/"/>
-            <outline text="Valigia Blu" type="rss" htmlUrl="https://www.valigiablu.it" xmlUrl="https://www.valigiablu.it/feed/"/>
-            <outline text="YouTrend" type="rss" htmlUrl="https://www.youtrend.it" xmlUrl="https://www.youtrend.it/feed/"/>
-            <outline text="Rivista il Mulino" type="rss" htmlUrl="http://www.rivistailmulino.it" xmlUrl="http://www.rivistailmulino.it/rss/all"/>
-            <outline text="Lavoce.info" type="rss" htmlUrl="https://www.lavoce.info/" xmlUrl="https://www.lavoce.info/rss"/>
-            <outline text="Corriere.it - Homepage" type="rss" htmlUrl="https://www.corriere.it" xmlUrl="http://xml2.corriereobjects.it/rss/homepage.xml"/>
-            <outline text="RomaToday" type="rss" htmlUrl="https://www.romatoday.it/" xmlUrl="https://www.romatoday.it/rss"/>
-            <outline text="Domani" type="rss" htmlUrl="https://www.editorialedomani.it" xmlUrl="https://www.editorialedomani.it/rss"/>
-        </outline>
-        <outline text="Impact">
-            <outline text="80,000 Hours" type="rss" htmlUrl="https://80000hours.org/" xmlUrl="https://80000hours.org/feed/atom/"/>
-            <outline text="Effective Altruism Forum" type="rss" htmlUrl="https://forum.effectivealtruism.org" xmlUrl="https://forum.effectivealtruism.org/feed.xml?view=frontpage-rss&amp;karmaThreshold=45"/>
-            <outline text="The Giving What We Can Blog" type="rss" htmlUrl="https://www.givingwhatwecan.org" xmlUrl="https://www.givingwhatwecan.org/blog.xml"/>
-            <outline text="The GiveWell Blog" type="rss" htmlUrl="https://blog.givewell.org/" xmlUrl="https://blog.givewell.org/feed/"/>
-            <outline text="Gates Open Research" type="rss" htmlUrl="http://gatesopenresearch.org" xmlUrl="https://gatesopenresearch.org/published/rss"/>
-            <outline text="Vox -  Future Perfect" type="rss" htmlUrl="https://www.vox.com/future-perfect" xmlUrl="https://www.vox.com/rss/future-perfect/index.xml"/>
-            <outline text="The Blog – The Borgen Project" type="rss" htmlUrl="https://borgenproject.org/blog/" xmlUrl="https://borgenproject.org/blog/feed/"/>
-            <outline text="Our World in Data" type="rss" htmlUrl="https://ourworldindata.org" xmlUrl="https://ourworldindata.org/feed"/>
-            <outline text="Cold Takes" type="rss" htmlUrl="https://www.cold-takes.com/" xmlUrl="https://www.cold-takes.com/rss/"/>
-            <outline text="GiveDirectly" type="rss" htmlUrl="https://www.givedirectly.org" xmlUrl="https://www.givedirectly.org/feed/"/>
-        </outline>
-        <outline text="Energy">
-            <outline text="EnergyPost.eu" type="rss" htmlUrl="https://energypost.eu" xmlUrl="https://energypost.eu/feed/"/>
-            <outline text="IAEA Top News RSS Feed" type="rss" htmlUrl="https://www.iaea.org/" xmlUrl="https://www.iaea.org/feeds/topnews"/>
-            <outline text="Nuclear Fusion" type="rss" htmlUrl="https://www.reddit.com/r/fusion/" xmlUrl="https://www.reddit.com/r/fusion/.rss"/>
-            <outline text="Clean Energy Wire" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/g68mca0swml1ild5.xml"/>
-            <outline text="&quot;&quot;nuclear fusion&quot; -fission&quot; - Google News" type="rss" htmlUrl="https://news.google.com/search?q=%22nuclear+fusion%22+-fission&amp;hl=en&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" xmlUrl="https://news.google.com/rss/search?q=%22nuclear+fusion%22+-fission&amp;amp;hl=en&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
-            <outline text="World Nuclear News" type="rss" htmlUrl="https://www.world-nuclear-news.org/?rss=feed" xmlUrl="https://www.world-nuclear-news.org/?rss=feed"/>
-            <outline text="Sustainability by numbers" type="rss" htmlUrl="https://www.sustainabilitybynumbers.com" xmlUrl="https://www.sustainabilitybynumbers.com/feed"/>
-        </outline>
-        <outline text="AI &amp; ML">
-            <outline text="Nature Machine Intelligence" type="rss" htmlUrl="http://feeds.nature.com/natmachintell/rss/current" xmlUrl="http://feeds.nature.com/natmachintell/rss/current"/>
-            <outline text="Facebook Research" type="rss" htmlUrl="https://research.facebook.com/" xmlUrl="https://research.fb.com/feed/"/>
-            <outline text="DeepMind" type="rss" htmlUrl="https://www.deepmind.com" xmlUrl="https://deepmind.com/blog/feed/basic/"/>
-            <outline text="Google AI Blog" type="rss" htmlUrl="http://blog.research.google/" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg"/>
-            <outline text="OpenAI" type="rss" htmlUrl="https://openai.com/blog" xmlUrl="https://openai.com/blog/rss/"/>
-            <outline text="Pete Warden's blog" type="rss" htmlUrl="https://petewarden.com" xmlUrl="https://petewarden.com/feed/"/>
-            <outline text="Sebastian Ruder" type="rss" htmlUrl="http://ruder.io/" xmlUrl="https://ruder.io/rss/index.rss"/>
-            <outline text="The Berkeley Artificial Intelligence Research Blog" type="rss" htmlUrl="http://bair.berkeley.edu/blog/" xmlUrl="https://bair.berkeley.edu/blog/feed.xml"/>
-            <outline text="Alpha Signal" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/5y503lhbsvex853s.xml"/>
-            <outline text="The Batch" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/ut85c5xzqjs18uh5.xml"/>
-        </outline>
-        <outline text="Business">
-            <outline text="deutsche-startups.de" type="rss" htmlUrl="https://www.deutsche-startups.de" xmlUrl="https://www.deutsche-startups.de/feed/"/>
-            <outline text="Fast Company" type="rss" htmlUrl="https://www.fastcompany.com" xmlUrl="http://www.fastcompany.com/rss.xml"/>
-            <outline text="CBInsights" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/rvxs99s8vkv39mof.xml"/>
-            <outline text="Sifted Newsletter" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/0h7lqh9tn2flc8kh.xml"/>
-            <outline text="Latest from Sifted – Sifted" type="rss" htmlUrl="https://sifted.eu/" xmlUrl="https://sifted.eu/feed/?post_type=article"/>
-            <outline text="No Mercy / No Malice" type="rss" htmlUrl="https://www.profgalloway.com/" xmlUrl="https://www.profgalloway.com/rss"/>
-            <outline text="Every" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/slsnfwuz12k2moaw.xml"/>
-            <outline text="EU-Startups" type="rss" htmlUrl="https://www.eu-startups.com/" xmlUrl="https://www.eu-startups.com/rss"/>
-        </outline>
-        <outline text="Computing">
-            <outline text="Guerre di Rete" type="rss" htmlUrl="https://guerredirete.substack.com" xmlUrl="https://guerredirete.substack.com/feed/"/>
-            <outline text="Phoronix" type="rss" htmlUrl="https://www.phoronix.com/" xmlUrl="https://www.phoronix.com/rss.php"/>
-            <outline text="RISC-V International" type="rss" htmlUrl="https://riscv.org" xmlUrl="https://riscv.org/feed/"/>
-        </outline>
-        <outline text="Science">
-            <outline text="Quanta Magazine" type="rss" htmlUrl="https://www.quantamagazine.org" xmlUrl="https://www.quantamagazine.org/feed/"/>
-            <outline text="Phys.org - latest science and technology news stories" type="rss" htmlUrl="https://phys.org/" xmlUrl="http://phys.org/rss-feed/"/>
-            <outline text="Nature - Issue - nature.com science feeds" type="rss" htmlUrl="http://feeds.nature.com/nature/rss/current" xmlUrl="http://feeds.nature.com/nature/rss/current"/>
-            <outline text="Latest News from Science Magazine" type="rss" htmlUrl="https://www.science.org" xmlUrl="http://www.sciencemag.org/rss/news_current.xml"/>
-            <outline text="MIT Technology Review" type="rss" htmlUrl="https://www.technologyreview.com" xmlUrl="https://www.technologyreview.com/feed"/>
-            <outline text="Your Local Epidemiologist" type="rss" htmlUrl="https://yourlocalepidemiologist.substack.com" xmlUrl="https://yourlocalepidemiologist.substack.com/feed"/>
-            <outline text="Nature Communications - current - nature.com science feeds" type="rss" htmlUrl="http://feeds.nature.com/ncomms/rss/current" xmlUrl="http://feeds.nature.com/ncomms/rss/current"/>
-        </outline>
-        <outline text="Space">
-            <outline text="Space.com" type="rss" htmlUrl="https://www.space.com" xmlUrl="https://www.space.com/feeds/all"/>
-        </outline>
-        <outline text="Food">
-            <outline text="The Good Food Institute" type="rss" htmlUrl="https://gfi.org" xmlUrl="https://www.gfi.org/rss.xml"/>
-            <outline text="&quot;&quot;alternative protein&quot; AND Italy&quot; - Google News" type="rss" htmlUrl="https://news.google.com/search?q=%22alternative+protein%22+AND+Italy&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" xmlUrl="https://news.google.com/rss/search?q=%22alternative protein%22 AND Italy&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen"/>
-        </outline>
-        <outline text="Alternative">
-            <outline text="Rete Voltaire" type="rss" htmlUrl="https://www.voltairenet.org/" xmlUrl="https://www.voltairenet.org/spip.php?page=backend&amp;id_secteur=1110&amp;lang=it"/>
-            <outline text="The Unz Review:" type="rss" htmlUrl="https://www.unz.com" xmlUrl="https://www.unz.com/feed/"/>
-            <outline text="The Vineyard of the Saker" type="rss" htmlUrl="https://thesaker.is" xmlUrl="https://thesaker.is/feed/"/>
-        </outline>
-        <outline text="History &amp; Philosophy">
-            <outline text="ADAM TOOZE" type="rss" htmlUrl="https://adamtooze.com" xmlUrl="https://adamtooze.com/feed/"/>
-            <outline text="francocardini.it" type="rss" htmlUrl="https://www.francocardini.it" xmlUrl="https://www.francocardini.it/feed/"/>
-            <outline text="Gennaro Carotenuto" type="rss" htmlUrl="https://www.gennarocarotenuto.it/" xmlUrl="https://feeds.feedburner.com/gc"/>
-            <outline text="Mario Del Pero" type="rss" htmlUrl="https://mariodelpero.italianieuropei.it" xmlUrl="https://mariodelpero.italianieuropei.it/feed/"/>
-            <outline text="Nec Pluribus Impar" type="rss" htmlUrl="https://necpluribusimpar.net/" xmlUrl="https://necpluribusimpar.net/feed/"/>
-            <outline text="Peter Turchin" type="rss" htmlUrl="https://peterturchin.com" xmlUrl="http://peterturchin.com/feed/"/>
-            <outline text="Short Cuts America: il blog di Arnaldo Testi" type="rss" htmlUrl="https://shortcutsamerica.com" xmlUrl="https://shortcutsamerica.com/feed/"/>
-        </outline>
-        <outline text="Economics &amp; Finance">
-            <outline text="Valori" type="rss" htmlUrl="https://valori.it/" xmlUrl="https://valori.it/rss"/>
-            <outline text="Emiliano Brancaccio" type="rss" htmlUrl="https://www.emilianobrancaccio.it/" xmlUrl="https://www.emilianobrancaccio.it/feed/"/>
-            <outline text="Keynes blog" type="rss" htmlUrl="https://keynesblog.com" xmlUrl="https://keynesblog.com/feed/"/>
-            <outline text="Lavoce.info" type="rss" htmlUrl="https://www.lavoce.info/" xmlUrl="https://www.lavoce.info/feed/"/>
-            <outline text="Phastidio.net" type="rss" htmlUrl="https://phastidio.net" xmlUrl="https://phastidio.net/feed/"/>
-            <outline text="Il Sole 24 ORE -  Finanza" type="rss" htmlUrl="https://www.ilsole24ore.com" xmlUrl="https://www.ilsole24ore.com/rss/finanza--quotate-italia.xml"/>
-            <outline text="The Economist: The world this week" type="rss" htmlUrl="https://www.economist.com/the-world-this-week/" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml"/>
-            <outline text="Recent VoxEU Content" type="rss" htmlUrl="https://cepr.org/" xmlUrl="https://cepr.org/rss/vox-content"/>
-            <outline text="Recent news" type="rss" htmlUrl="https://cepr.org/" xmlUrl="https://cepr.org/rss/news"/>
-        </outline>
-        <outline text="Germany">
-            <outline text="DER SPIEGEL - Schlagzeilen" type="rss" htmlUrl="https://www.spiegel.de/" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss"/>
-            <outline text="taz.de - Artikel aus der Onlineausgabe" type="rss" htmlUrl="http://www.taz.de/Archiv-Suche/!5990222&amp;s=/" xmlUrl="https://taz.de/!s=&amp;ExportStatus=Intern&amp;SuchRahmen=Online;rss/"/>
-            <outline text="Deutsche Welle" type="rss" htmlUrl="http://www.dw.com/english/?maca=en-rss-en-all-1573-rdf" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
-            <outline text="Telepolis" type="rss" htmlUrl="https://www.heise.de/tp/" xmlUrl="http://www.heise.de/tp/news-atom.xml"/>
-            <outline text="netzpolitik.org" type="rss" htmlUrl="https://netzpolitik.org" xmlUrl="https://netzpolitik.org/feed"/>
-            <outline text="Nachrichten" type="rss" htmlUrl="https://www.nachrichtenleicht.de/nachrichtenleicht-nachrichten-100.html" xmlUrl="https://www.nachrichtenleicht.de/nachrichtenleicht-nachrichten-100.rss"/>
-        </outline>
-        <outline text="Europe">
-            <outline text="East Journal" type="rss" htmlUrl="https://www.eastjournal.net/" xmlUrl="https://www.eastjournal.net/feed"/>
-        </outline>
-        <outline text="Asia">
-            <outline text="Pekingnology" type="rss" htmlUrl="https://www.pekingnology.com" xmlUrl="https://pekingnology.substack.com/feed"/>
-            <outline text="Andrew Batson's Blog" type="rss" htmlUrl="https://andrewbatson.com" xmlUrl="https://andrewbatson.com/feed/"/>
-            <outline text="Asia Times" type="rss" htmlUrl="https://asiatimes.com/" xmlUrl="https://asiatimes.com/feed/"/>
-            <outline text="China Files" type="rss" htmlUrl="https://follow.it/china-files-reports-from-asia" xmlUrl="https://www.china-files.com/feed/"/>
-            <outline text="Expertise Asia" type="rss" htmlUrl="http://www.expertise-asia.com" xmlUrl="http://www.expertise-asia.com/feed"/>
-            <outline text="MacroPolo" type="rss" htmlUrl="https://macropolo.org/" xmlUrl="https://macropolo.org/feed/"/>
-            <outline text="What's on Weibo" type="rss" htmlUrl="https://www.whatsonweibo.com/" xmlUrl="https://www.whatsonweibo.com/feed/"/>
-        </outline>
-        <outline text="US, UK, World">
-            <outline text="BBC News" type="rss" htmlUrl="https://www.bbc.co.uk/news/" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
-            <outline text="CNN.com - RSS Channel - App International Edition" type="rss" htmlUrl="https://www.cnn.com/app-international-edition/index.html" xmlUrl="http://rss.cnn.com/rss/edition.rss"/>
-            <outline text="Everything" type="rss" htmlUrl="https://www.newyorker.com" xmlUrl="https://www.newyorker.com/feed/everything"/>
-            <outline text="NYT &gt; World News" type="rss" htmlUrl="https://www.nytimes.com/section/world" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml"/>
-            <outline text="POLITICO" type="rss" htmlUrl="https://www.politico.eu" xmlUrl="https://www.politico.eu/feed/"/>
-            <outline text="Reveal » Reveal" type="rss" htmlUrl="https://revealnews.org/" xmlUrl="https://www.revealnews.org/feed/"/>
-            <outline text="Le Monde.fr - Actualités et Infos en France et dans le monde" type="rss" htmlUrl="https://www.lemonde.fr/rss/une.xml" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
-            <outline text="FiveThirtyEight » Features | FiveThirtyEight" type="rss" htmlUrl="https://fivethirtyeight.com" xmlUrl="https://fivethirtyeight.com/features/feed/"/>
-            <outline text="ICIJ" type="rss" htmlUrl="https://www.icij.org" xmlUrl="https://www.icij.org/feed"/>
-            <outline text="Vox - All" type="rss" htmlUrl="https://www.vox.com/" xmlUrl="https://www.vox.com/rss/index.xml"/>
-            <outline text="BBC News - World" type="rss" htmlUrl="https://www.bbc.co.uk/news/world" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
-            <outline text="The Browser" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/o6mon4s2n4fde60i.xml"/>
-        </outline>
-        <outline text="Left">
-            <outline text="DINAMOpress" type="rss" htmlUrl="https://www.dinamopress.it" xmlUrl="https://www.dinamopress.it/feed/"/>
-            <outline text="Effimera" type="rss" htmlUrl="https://effimera.org/" xmlUrl="http://effimera.org/feed/"/>
-            <outline text="EuroNomade" type="rss" htmlUrl="https://www.euronomade.info/" xmlUrl="http://www.euronomade.info/?feed=rss2"/>
-            <outline text="Giap" type="rss" htmlUrl="https://www.wumingfoundation.com/giap" xmlUrl="https://www.wumingfoundation.com/giap/feed/"/>
-            <outline text="La Fionda" type="rss" htmlUrl="https://www.lafionda.org" xmlUrl="https://www.lafionda.org/feed/"/>
-            <outline text="Marxismo Oggi | Nuova serie" type="rss" htmlUrl="https://www.marxismo-oggi.it/" xmlUrl="https://www.marxismo-oggi.it/?format=feed&amp;type=rss"/>
-            <outline text="spiked" type="rss" htmlUrl="https://www.spiked-online.com/" xmlUrl="https://www.spiked-online.com/feed/"/>
-        </outline>
-        <outline text="Liberal">
-            <outline text="Quillette" type="rss" htmlUrl="https://quillette.com/" xmlUrl="https://quillette.com/articles/rss/"/>
-        </outline>
-        <outline text="Right">
-            <outline text="Atlantico Quotidiano" type="rss" htmlUrl="https://www.nicolaporro.it/atlanticoquotidiano/" xmlUrl="http://www.atlanticoquotidiano.it/feed/"/>
-            <outline text="Istituto Bruno Leoni" type="rss" htmlUrl="http://www.brunoleoni.it" xmlUrl="http://www.brunoleoni.it/rss/rss_notifiche.xml"/>
-            <outline text="LibertàEguale" type="rss" htmlUrl="http://www.libertaeguale.it" xmlUrl="http://www.libertaeguale.it/feed/"/>
-            <outline text="Strade - Home" type="rss" htmlUrl="https://www.stradeonline.it/" xmlUrl="https://www.stradeonline.it/?format=feed&amp;type=rss"/>
-        </outline>
-        <outline text="Politics">
-            <outline text="Limes" type="rss" htmlUrl="https://www.limesonline.com" xmlUrl="https://www.limesonline.com/rss"/>
-            <outline text="Politico.eu" type="rss" htmlUrl="https://www.politico.eu" xmlUrl="https://www.politico.eu/rss"/>
-            <outline text="IAI - Istituto Affari Internazionali" type="rss" htmlUrl="https://www.iai.it/it/rss.xml" xmlUrl="https://www.iai.it/it/rss.xml"/>
-            <outline text="ISPI - Istituto per gli studi di politica internazionale" type="rss" htmlUrl="https://www.ispionline.it/it/front/37/articoli/articolo/node/478" xmlUrl="https://www.ispionline.it/rss.xml"/>
-            <outline text="Moon of Alabama" type="rss" htmlUrl="https://www.moonofalabama.org/" xmlUrl="https://www.moonofalabama.org/atom.xml"/>
-            <outline text="Responsible Statecraft" type="rss" htmlUrl="https://responsiblestatecraft.org/" xmlUrl="https://responsiblestatecraft.org/feed/"/>
-            <outline text="Dissent MagazineDissent Magazine" type="rss" htmlUrl="https://www.dissentmagazine.org/" xmlUrl="https://www.dissentmagazine.org/feed"/>
-            <outline text="Internazionale" type="rss" htmlUrl="https://www.internazionale.it/" xmlUrl="https://www.internazionale.it/sitemaps/rss.xml"/>
-            <outline text="Istituto di Politica" type="rss" htmlUrl="https://www.istitutodipolitica.it" xmlUrl="https://www.istitutodipolitica.it/feed/"/>
-            <outline text="Italianieuropei" type="rss" htmlUrl="https://www.italianieuropei.it" xmlUrl="http://feeds.feedburner.com/italianieuropei"/>
-            <outline text="Jacobin" type="rss" htmlUrl="https://jacobin.com/2024/02/nba-israel-palestine-draymond-green-lebron-james/" xmlUrl="https://jacobinmag.com/feed/"/>
-            <outline text="Left" type="rss" htmlUrl="https://left.it" xmlUrl="https://left.it/feed/"/>
-            <outline text="memeorandum" type="rss" htmlUrl="http://www.memeorandum.com/" xmlUrl="https://www.memeorandum.com/feed.xml"/>
-            <outline text="Not" type="rss" htmlUrl="https://not.neroeditions.com" xmlUrl="https://not.neroeditions.com/feed/"/>
-            <outline text="Social Europe" type="rss" htmlUrl="https://www.socialeurope.eu" xmlUrl="https://www.socialeurope.eu/feed"/>
-            <outline text="Strisciarossa" type="rss" htmlUrl="https://www.strisciarossa.it/" xmlUrl="http://www.strisciarossa.it/feed/"/>
-            <outline text="The Atlantic" type="rss" htmlUrl="https://www.theatlantic.com/" xmlUrl="https://www.theatlantic.com/feed/all/"/>
-            <outline text="The Intercept" type="rss" htmlUrl="https://theintercept.com/" xmlUrl="https://theintercept.com/feed"/>
-            <outline text="Harvard International Review" type="rss" htmlUrl="https://hir.harvard.edu/" xmlUrl="https://hir.harvard.edu/rss/"/>
-        </outline>
-        <outline text="Blogs">
-            <outline text="Derek Sivers" type="rss" htmlUrl="https://sive.rs/wt" xmlUrl="https://sive.rs/en.atom"/>
-            <outline text="Astral Codex Ten" type="rss" htmlUrl="https://www.astralcodexten.com" xmlUrl="https://astralcodexten.substack.com/feed"/>
-            <outline text="Gwern.net Newsletter" type="rss" htmlUrl="https://gwern.substack.com" xmlUrl="https://gwern.substack.com/feed/"/>
-            <outline text="The Blog of Author Tim Ferriss » Blog" type="rss" htmlUrl="https://feed.feedburster.com/timferriss/website" xmlUrl="http://feeds.feedburner.com/TimFerriss"/>
-            <outline text="Paul Graham: Essays" type="rss" htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
-            <outline text="Bert Hubert's writings" type="rss" htmlUrl="https://berthub.eu/articles/" xmlUrl="https://berthub.eu/articles/index.xml"/>
-            <outline text="Scott H Young" type="rss" htmlUrl="https://www.scotthyoung.com/blog/" xmlUrl="https://www.scotthyoung.com/blog/rss"/>
-            <outline text="benkuhn.net" type="rss" htmlUrl="https://www.benkuhn.net/" xmlUrl="https://www.benkuhn.net/index.xml"/>
-            <outline text="Jakob Greenfeld" type="rss" htmlUrl="http://jakobgreenfeld.com/" xmlUrl="https://jakobgreenfeld.com/feed"/>
-            <outline text="Overcoming Bias" type="rss" htmlUrl="https://www.overcomingbias.com" xmlUrl="https://www.overcomingbias.com/rss"/>
-            <outline text="Steve Blank" type="rss" htmlUrl="https://steveblank.com" xmlUrl="https://steveblank.com/feed/"/>
-            <outline text="Calvin Rosser" type="rss" htmlUrl="https://kill-the-newsletter.com/" xmlUrl="https://kill-the-newsletter.com/feeds/73qdnnvr6h6mnex4.xml"/>
-            <outline text="Daniel Schmachtenberger" type="rss" htmlUrl="https://civilizationemerging.com" xmlUrl="https://civilizationemerging.com/rss"/>
-        </outline>
-        <outline text="Technology">
-            <outline text="Feed: All Latest" type="rss" htmlUrl="https://www.wired.com" xmlUrl="https://www.wired.com/feed"/>
-        </outline>
-        <outline text="Climate Change">
-            <outline text="Climate-change mitigation : nature.com subject feeds" type="rss" htmlUrl="https://www.nature.com/subjects/climate-change-mitigation" xmlUrl="https://www.nature.com/subjects/climate-change-mitigation.rss"/>
-        </outline>
-        <outline text="F1">
-            <outline text="Formula 1 News" type="rss" htmlUrl="https://formula1.com" xmlUrl="https://www.formula1.com/content/fom-website/en/latest/all.xml"/>
-            <outline text="Autosport.com - Formula 1 - Stories" type="rss" htmlUrl="https://www.autosport.com/f1/news/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk" xmlUrl="https://www.autosport.com/rss/f1/news/"/>
-        </outline>
-    </body>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opml version="2.0" xmlns:rssguard="https://github.com/martinrotter/rssguard">
+  <head>
+    <title>RSS Guard</title>
+    <dateCreated>Sat, 06 Apr 2024 15:52:50 GMT</dateCreated>
+  </head>
+  <body>
+    <outline description="" text="Research Feed">
+      <outline description="Nature Reviews Materials is an international monthly multi-disciplinary review journal, which aims to provide timely, authoritative Reviews and Perspectives that are of broad interest and of exceptional quality. Materials science is a diverse and fast-growing discipline, which has moved from a largely engineering focus to a position where it has an increasing impact on other classical disciplines such as physics, chemistry and biology. Materials science encompasses both fundamental and applied studies. No other journal in materials science offers the scientific breadth and vast number of Reviews that Nature Reviews Materials provides." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Nature Reviews Materials" title="Nature Reviews Materials" type="rss" version="RSS1" xmlUrl="http://feeds.nature.com/natrevmats/rss/current"/>
+      <outline description="terms=reactor AND journals=0029-5515 AND searchDatePeriod=anytime" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="IOPscience Full Text Search" title="IOPscience Full Text Search" type="rss" version="RSS1" xmlUrl="https://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515&amp;terms=reactor"/>
+      <outline description="journals=0029-5515 AND searchDatePeriod=anytime" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="IOPscience Full Text Search" title="IOPscience Full Text Search" type="rss" version="RSS1" xmlUrl="https://iopscience.iop.org/nsearch/rss?&amp;searchDatePeriod=anytime&amp;journals=0029-5515"/>
+      <outline description="Nature Energy is an online-only journal interested in all aspects of energy, from its generation and storage, to its distribution and management, the needs and demands of the different actors involved, and the impacts that energy technologies and policies have on different societies. The journal has a particular interest in studies that advance our knowledge and inform the development of next-generation technologies and solutions. Nature Energy publishes research from the natural, behavioural and social sciences." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Nature Energy" title="Nature Energy" type="rss" version="RSS1" xmlUrl="http://feeds.nature.com/nenergy/rss/current"/>
+      <outline description="stat.ML updates on the arXiv.org e-print archive." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="stat.ML updates on arXiv.org" title="stat.ML updates on arXiv.org" type="rss" version="RSS" xmlUrl="http://arxiv.org/rss/stat.ML"/>
+      <outline description="physics.plasm-ph updates on the arXiv.org e-print archive." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="physics.plasm-ph updates on arXiv.org" title="physics.plasm-ph updates on arXiv.org" type="rss" version="RSS" xmlUrl="http://export.arxiv.org/rss/physics.plasm-ph"/>
+    </outline>
+    <outline description="" text="Research">
+      <outline description="Recent content on A Happy PhD" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="A Happy PhD" title="A Happy PhD" type="rss" version="RSS" xmlUrl="https://ahappyphd.org/index.xml"/>
+      <outline description="Updates on my research and expository papers, discussion of open problems, and other maths-related topics.  By Terence Tao" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="What's new" title="What's new" type="rss" version="RSS" xmlUrl="https://terrytao.wordpress.com/feed/"/>
+      <outline description="Maximizing the impact of academic research" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Impact of Social Sciences" title="Impact of Social Sciences" type="rss" version="RSS" xmlUrl="http://feeds.feedburner.com/feedburner/LSEImpactBlog"/>
+      <outline description="The Blog of Scott Aaronson" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Shtetl-Optimized" title="Shtetl-Optimized" type="rss" version="RSS" xmlUrl="https://www.scottaaronson.com/blog/?feed=rss2"/>
+      <outline description="Return On Academic Research and School" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="ROARS" title="ROARS" type="rss" version="RSS" xmlUrl="https://www.roars.it/online/rss"/>
+    </outline>
+    <outline description="" text="Thinking">
+      <outline description="Making the Inevitable Obvious" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Technium" title="The Technium" type="rss" version="RSS" xmlUrl="https://feedpress.me/TheTechnium"/>
+      <outline description="A community blog devoted to refining the art of rationality" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="LessWrong" title="LessWrong" type="rss" version="RSS" xmlUrl="https://www.lesswrong.com/feed.xml?view=curated-rss"/>
+      <outline description="Sydney. London. Toronto." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Quillette" title="Quillette" type="rss" version="RSS" xmlUrl="https://quillette.com/rss/"/>
+      <outline description="Mastering the best of what other people have already figured out" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Farnam Street" title="Farnam Street" type="rss" version="RSS" xmlUrl="http://feeds.feedburner.com/68131"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Wait But Why" title="Wait But Why" type="rss" version="RSS" xmlUrl="https://waitbutwhy.com/rss"/>
+      <outline description="Kill the Newsletter! Inbox:&#xa;          1gsfh3obt7utn2w4@kill-the-newsletter.com →&#xa;          https://kill-the-newsletter.com/feeds/1gsfh3obt7utn2w4.xml" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Superorganizers" title="Superorganizers" type="rss" version="ATOM" xmlUrl="https://kill-the-newsletter.com/feeds/1gsfh3obt7utn2w4.xml"/>
+      <outline description="A weblog for the Fallacy Files website." encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Fallacy Files" title="Fallacy Files" type="rss" version="RSS" xmlUrl="https://www.fallacyfiles.org/blogfeed.xml"/>
+    </outline>
+    <outline description="" text="Italy">
+      <outline description="Rivista indipendente di economia" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Altreconomia" title="Altreconomia" type="rss" version="RSS" xmlUrl="https://altreconomia.it/rss"/>
+      <outline description="scritture e immagini" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Antinomie" title="Antinomie" type="rss" version="RSS" xmlUrl="https://antinomie.it/index.php/feed/"/>
+      <outline description="agenzia per la trasformazione culturale" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="cheFare" title="cheFare" type="rss" version="RSS" xmlUrl="https://www.che-fare.com/feed/"/>
+      <outline description="" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Doppiozero - Progetto editoriale non-profit" title="Doppiozero - Progetto editoriale non-profit" type="rss" version="RSS" xmlUrl="https://www.doppiozero.com/rss.xml"/>
+      <outline description="gruppo di ricerca indipendente" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Ippolita" title="Ippolita" type="rss" version="RSS" xmlUrl="https://www.ippolita.net/feed/"/>
+      <outline description="&quot;Beatus Popolus, Cuius Dominus Deus Eius&quot;" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="La Civiltà Cattolica" title="La Civiltà Cattolica" type="rss" version="RSS" xmlUrl="https://www.laciviltacattolica.it/feed/"/>
+      <outline description="Rivista di cultura e di narrativa" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Flanerí" title="Flanerí" type="rss" version="RSS" xmlUrl="http://www.flaneri.com/feed/"/>
+      <outline description="Letteratura e realtà" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Le parole e le cose²" title="Le parole e le cose²" type="rss" version="RSS" xmlUrl="http://www.leparoleelecose.it/?feed=rss2"/>
+      <outline description="Spalancare le finestre dei saperi, affacciarsi sul contemporaneo" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="il lavoro culturale" title="il lavoro culturale" type="rss" version="RSS" xmlUrl="https://www.lavoroculturale.org/feed/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Il Tascabile" title="Il Tascabile" type="rss" version="RSS" xmlUrl="https://www.iltascabile.com/feed/"/>
+      <outline description="Updated every day - FOR PERSONAL USE ONLY" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Primo piano ANSA - ANSA.it" title="Primo piano ANSA - ANSA.it" type="rss" version="RSS" xmlUrl="https://www.ansa.it/sito/ansait_rss.xml"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="NAZIONE INDIANA" title="NAZIONE INDIANA" type="rss" version="RSS" xmlUrl="https://www.nazioneindiana.com/feed/"/>
+      <outline description="Repubblica.it: Il quotidiano online in tempo reale" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Repubblica.it" title="Repubblica.it" type="rss" version="RSS" xmlUrl="https://www.repubblica.it/rss/homepage/rss2.0.xml"/>
+      <outline description="RIVISTA DI CULTURA E ALTRO" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="L'INDISCRETO" title="L'INDISCRETO" type="rss" version="RSS" xmlUrl="https://www.indiscreto.org/feed/"/>
+      <outline description="La campagna di 46 organizzazioni della società civile e il magazine di critica socioeconomica. Vogliamo conoscere, discutere e analizzare criticamente i fatti dell’economia" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Sbilanciamoci – L’economia com’è e come può essere. Per un’Italia capace di futuro" title="Sbilanciamoci – L’economia com’è e come può essere. Per un’Italia capace di futuro" type="rss" version="RSS" xmlUrl="https://sbilanciamoci.info/feed/"/>
+      <outline description="Giornale online e piattaforma di informazione partecipata con approfondimenti sulla politica, l'economia, la società, la cultura" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Gli Stati Generali" title="Gli Stati Generali" type="rss" version="RSS" xmlUrl="https://www.glistatigenerali.com/feed/"/>
+      <outline description="Indipendente, sociale, partecipativo - segui i nostri live, reportage, inchieste, storie e video da Youmedia, partecipa con noi all'informazione." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Fanpage" title="Fanpage" type="rss" version="RSS" xmlUrl="https://www.fanpage.it/feed/"/>
+      <outline description="agenzia di stampa politica e parlamentare" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="PublicPolicy" title="PublicPolicy" type="rss" version="RSS" xmlUrl="https://www.publicpolicy.it/feed"/>
+      <outline description="un blog di approfondimento culturale" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="minima&amp;moralia" title="minima&amp;moralia" type="rss" version="RSS" xmlUrl="http://www.minimaetmoralia.it/wp/feed/"/>
+      <outline description="La redazione under 25 più grande d'Italia" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Scomodo" title="Scomodo" type="rss" version="RSS" xmlUrl="https://www.leggiscomodo.org/feed/"/>
+      <outline description="sopra e sotto la superficie" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="the Submarine" title="the Submarine" type="rss" version="RSS" xmlUrl="https://thesubmarine.it/feed/"/>
+      <outline description="Basata sui fatti. Aperta a tutti. Sostenuta dai lettori." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Valigia Blu" title="Valigia Blu" type="rss" version="RSS" xmlUrl="https://www.valigiablu.it/feed/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="YouTrend" title="YouTrend" type="rss" version="RSS" xmlUrl="https://www.youtrend.it/feed/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="RomaToday" title="RomaToday" type="rss" version="RSS" xmlUrl="https://www.romatoday.it/rss"/>
+      <outline description="Contenuti della rivista il Mulino." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Rivista il Mulino" title="Rivista il Mulino" type="rss" version="RSS" xmlUrl="http://www.rivistailmulino.it/rss/all"/>
+      <outline description="Economia, Finanza, Politica, Lavoro" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Lavoce.info" title="Lavoce.info" type="rss" version="RSS" xmlUrl="https://www.lavoce.info/rss"/>
+      <outline description="Archivio di documenti e articoli per la discussione politica nella sinistra" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="ARTICOLI in evidenza" title="ARTICOLI in evidenza" type="rss" version="RSS" xmlUrl="https://sinistrainrete.info/index.php?format=feed&amp;type=rss"/>
+      <outline description="Corriere.it - Notizie e approfondimenti di cronaca, politica, economia e sport con foto, immagini e video di Corriere TV. Meteo, salute, guide viaggi, Musica e giochi online" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Corriere.it - Homepage" title="Corriere.it - Homepage" type="rss" version="RSS" xmlUrl="http://xml2.corriereobjects.it/rss/homepage.xml"/>
+      <outline description="Gli articoli di Domani, aggiornati in tempo reale con tutte le notizie." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Domani" title="Domani" type="rss" version="RSS" xmlUrl="https://www.editorialedomani.it/rss"/>
+    </outline>
+    <outline description="" text="Impact">
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="80,000 Hours" title="80,000 Hours" type="rss" version="ATOM" xmlUrl="https://80000hours.org/feed/atom/"/>
+      <outline description="Effective Altruism research, discussion and community updates" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Effective Altruism Forum" title="Effective Altruism Forum" type="rss" version="RSS" xmlUrl="https://forum.effectivealtruism.org/feed.xml?view=frontpage-rss&amp;karmaThreshold=45"/>
+      <outline description="Giving What We Can is a community of people donating 10% of their income to the most effective organisations in the world." encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Giving What We Can Blog" title="Giving What We Can Blog" type="rss" version="RSS" xmlUrl="https://www.givingwhatwecan.org/blog.xml"/>
+      <outline description="Exploring how to get real change for your dollar." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The GiveWell Blog" title="The GiveWell Blog" type="rss" version="RSS" xmlUrl="https://blog.givewell.org/feed/"/>
+      <outline description="Recent articles published in Gates Open Research" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Gates Open Research" title="Gates Open Research" type="rss" version="RSS" xmlUrl="https://gatesopenresearch.org/published/rss"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Vox -  Future Perfect" title="Vox -  Future Perfect" type="rss" version="ATOM" xmlUrl="https://www.vox.com/rss/future-perfect/index.xml"/>
+      <outline description="Downsize Poverty" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Borgen Project Blog - Top Global Issues News Source" title="The Borgen Project Blog - Top Global Issues News Source" type="rss" version="RSS" xmlUrl="https://borgenproject.org/blog/feed/"/>
+      <outline description="Research and data to make progress against the world’s largest problems" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Our World in Data" title="Our World in Data" type="rss" version="ATOM" xmlUrl="https://ourworldindata.org/feed"/>
+      <outline description="For audio version, search for &quot;Cold Takes Audio&quot; in your podcast app" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Cold Takes" title="Cold Takes" type="rss" version="RSS" xmlUrl="https://www.cold-takes.com/rss/"/>
+      <outline description="Send money directly to people in need." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="GiveDirectly" title="GiveDirectly" type="rss" version="RSS" xmlUrl="https://www.givedirectly.org/feed/"/>
+    </outline>
+    <outline description="" text="Energy">
+      <outline description="Daily reports on the European and Global energy transition" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Energy Post" title="Energy Post" type="rss" version="RSS" xmlUrl="https://energypost.eu/feed/"/>
+      <outline description="Top stories from the International Atomic Energy Agency" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="IAEA Top News" title="IAEA Top News" type="rss" version="RSS" xmlUrl="https://www.iaea.org/feeds/topnews"/>
+      <outline description="Discussion and news on advancements in the field of nuclear fusion energy and related technologies." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Nuclear Fusion" title="Nuclear Fusion" type="rss" version="ATOM" xmlUrl="https://www.reddit.com/r/fusion/.rss"/>
+      <outline description="Google News" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="&quot;&quot;nuclear fusion&quot; -fission&quot; - Google News" title="&quot;&quot;nuclear fusion&quot; -fission&quot; - Google News" type="rss" version="RSS" xmlUrl="https://news.google.com/rss/search?q=%22nuclear+fusion%22+-fission&amp;amp;hl=en&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline description="World Nuclear News recent stories" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="World Nuclear News" title="World Nuclear News" type="rss" version="RSS" xmlUrl="https://www.world-nuclear-news.org/?rss=feed"/>
+      <outline description="Using data and research to understand what really makes a difference" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Sustainability by numbers" title="Sustainability by numbers" type="rss" version="RSS" xmlUrl="https://www.sustainabilitybynumbers.com/feed"/>
+      <outline description="Kill the Newsletter! Inbox:&#xa;          g68mca0swml1ild5@kill-the-newsletter.com →&#xa;          https://kill-the-newsletter.com/feeds/g68mca0swml1ild5.xml" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Clean Energy Wire" title="Clean Energy Wire" type="rss" version="ATOM" xmlUrl="https://kill-the-newsletter.com/feeds/g68mca0swml1ild5.xml"/>
+    </outline>
+    <outline description="" text="AI &amp; ML">
+      <outline description="Nature Machine Intelligence will publish high-quality original research and reviews in a wide range of topics in machine learning, robotics and AI. The journal will also explore and discuss the significant impact that these fields are beginning to have on other scientific disciplines as well as many aspects of society and industry. There are countless opportunities where machine intelligence can augment human capabilities and knowledge in fields such as scientific discovery, healthcare, medical diagnostics and safe and sustainable cities, transport and agriculture. At the same time, many important questions on ethical, social and legal issues arise, especially given the fast pace of developments Nature Machine Intelligence will provide a platform to discuss these wide implications — encouraging a cross-disciplinary dialogue — with Comments, News Features, News &amp;amp; Views articles and also Correspondence." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Nature Machine Intelligence" title="Nature Machine Intelligence" type="rss" version="RSS1" xmlUrl="http://feeds.nature.com/natmachintell/rss/current"/>
+      <outline description="The latest news from Google AI." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Google AI Blog" title="Google AI Blog" type="rss" version="ATOM" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg"/>
+      <outline description="The OpenAI blog" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="OpenAI Blog" title="OpenAI Blog" type="rss" version="RSS" xmlUrl="https://openai.com/blog/rss/"/>
+      <outline description="Read the latest articles and stories from DeepMind and find out more about our latest breakthroughs in cutting-edge AI research." encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Google DeepMind Blog" title="Google DeepMind Blog" type="rss" version="RSS" xmlUrl="https://deepmind.com/blog/feed/basic/"/>
+      <outline description="Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Pete Warden's blog" title="Pete Warden's blog" type="rss" version="RSS" xmlUrl="https://petewarden.com/feed/"/>
+      <outline description="The BAIR Blog" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Berkeley Artificial Intelligence Research Blog" title="The Berkeley Artificial Intelligence Research Blog" type="rss" version="RSS" xmlUrl="https://bair.berkeley.edu/blog/feed.xml"/>
+      <outline description="We summarize top AI discords + AI reddits + AI X/Twitters, and send you a roundup each day! See [archive](https://buttondown.email/ainews/archive/) for examples.&#xa;&#xa;> &quot;Highest-leverage 45 mins I spend everyday&quot; - [Soumith](https://twitter.com/soumithchintala/status/1764 853209498034537)&#xa;&#xa;> &quot;best AI newsletter atm&quot; - [Andrej](https://twitter.com/karpathy/status/1767616494752731633)&#xa;&#xa;> &quot;genuinely incredible&quot; - [Chris](https://x.com/chrisalbon/status/1768433442210091170?s=20)&#xa;&#xa;A smol service by @swyx and other [Latent.Space](https://www.latent.space/) friends!" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="AI News" title="AI News" type="rss" version="RSS" xmlUrl="https://buttondown.email/ainews/rss"/>
+      <outline description="Kill the Newsletter! Inbox:&#xa;          5y503lhbsvex853s@kill-the-newsletter.com →&#xa;          https://kill-the-newsletter.com/feeds/5y503lhbsvex853s.xml" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Alpha Signal" title="Alpha Signal" type="rss" version="ATOM" xmlUrl="https://kill-the-newsletter.com/feeds/5y503lhbsvex853s.xml"/>
+      <outline description="Kill the Newsletter! Inbox:&#xa;          ut85c5xzqjs18uh5@kill-the-newsletter.com →&#xa;          https://kill-the-newsletter.com/feeds/ut85c5xzqjs18uh5.xml" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Batch" title="The Batch" type="rss" version="ATOM" xmlUrl="https://kill-the-newsletter.com/feeds/ut85c5xzqjs18uh5.xml"/>
+    </outline>
+    <outline description="" text="Business">
+      <outline description="Startups - Venture Capital - Jobs" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="deutsche-startups.de" title="deutsche-startups.de" type="rss" version="RSS" xmlUrl="https://www.deutsche-startups.de/feed/"/>
+      <outline description="Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Fast Company" title="Fast Company" type="rss" version="RSS" xmlUrl="http://www.fastcompany.com/rss.xml"/>
+      <outline description="Quality journalism about Europe's New Economy" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Sifted" title="Sifted" type="rss" version="RSS" xmlUrl="https://sifted.eu/feed/?post_type=article"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="No Mercy / No Malice" title="No Mercy / No Malice" type="rss" version="RSS" xmlUrl="https://www.profgalloway.com/rss"/>
+      <outline description="Spotlight on European startups" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="EU-Startups" title="EU-Startups" type="rss" version="RSS" xmlUrl="https://www.eu-startups.com/rss"/>
+      <outline description="Kill the Newsletter! Inbox:&#xa;          rvxs99s8vkv39mof@kill-the-newsletter.com →&#xa;          https://kill-the-newsletter.com/feeds/rvxs99s8vkv39mof.xml" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="CBInsights" title="CBInsights" type="rss" version="ATOM" xmlUrl="https://kill-the-newsletter.com/feeds/rvxs99s8vkv39mof.xml"/>
+      <outline description="Kill the Newsletter! Inbox:&#xa;          0h7lqh9tn2flc8kh@kill-the-newsletter.com →&#xa;          https://kill-the-newsletter.com/feeds/0h7lqh9tn2flc8kh.xml" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Sifted" title="Sifted" type="rss" version="ATOM" xmlUrl="https://kill-the-newsletter.com/feeds/0h7lqh9tn2flc8kh.xml"/>
+      <outline description="Kill the Newsletter! Inbox:&#xa;          slsnfwuz12k2moaw@kill-the-newsletter.com →&#xa;          https://kill-the-newsletter.com/feeds/slsnfwuz12k2moaw.xml" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Divinations" title="Divinations" type="rss" version="ATOM" xmlUrl="https://kill-the-newsletter.com/feeds/slsnfwuz12k2moaw.xml"/>
+    </outline>
+    <outline description="" text="Computing">
+      <outline description="RISC-V: The Open Standard RISC Instruction Set Architecture" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="RISC-V International" title="RISC-V International" type="rss" version="RSS" xmlUrl="https://riscv.org/feed/"/>
+      <outline description="News e analisi su cybersicurezza, privacy, Rete e politica" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Guerre di Rete" title="Guerre di Rete" type="rss" version="RSS" xmlUrl="https://guerredirete.substack.com/feed/"/>
+      <outline description="Linux Hardware Reviews, Benchmarks &amp; Open-Source News" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Phoronix" title="Phoronix" type="rss" version="RSS" xmlUrl="https://www.phoronix.com/rss.php"/>
+    </outline>
+    <outline description="" text="Science">
+      <outline description="Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable readers to share the latest discoveries in science and evolve the discussion amongst the global scientific community." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Nature" title="Nature" type="rss" version="RSS1" xmlUrl="http://feeds.nature.com/nature/rss/current"/>
+      <outline description="Phys.org internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine." encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Phys.org - latest science and technology news stories" title="Phys.org - latest science and technology news stories" type="rss" version="RSS" xmlUrl="http://phys.org/rss-feed/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="MIT Technology Review" title="MIT Technology Review" type="rss" version="RSS" xmlUrl="https://www.technologyreview.com/feed"/>
+      <outline description="Keyword search result for Alerts: News Weekly Headlines -- New results matching your keyword search query (updated daily)." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Latest News from Science Magazine" title="Latest News from Science Magazine" type="rss" version="RSS1" xmlUrl="http://www.sciencemag.org/rss/news_current.xml"/>
+      <outline description="&lt;p>&lt;em>Nature Communications&lt;/em>&amp;nbsp;is an open access, multidisciplinary journal dedicated to publishing high-quality research in all areas of the biological, health, physical, chemical and Earth sciences. Papers published by the journal aim to represent important advances of significance to specialists within each field.&lt;/p>&#xa;&#xa;&lt;p>We are committed to providing an efficient service for both authors and readers. Our&amp;nbsp;team of independent editors make rapid and fair publication decisions. Prompt dissemination of accepted papers to a&amp;nbsp;wide readership and beyond is achieved through a programme of continuous online publication.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p>&#xa;" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Nature Communications" title="Nature Communications" type="rss" version="RSS1" xmlUrl="http://feeds.nature.com/ncomms/rss/current"/>
+      <outline description="Providing a direct line of public health science to you" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Your Local Epidemiologist" title="Your Local Epidemiologist" type="rss" version="RSS" xmlUrl="https://yourlocalepidemiologist.substack.com/feed"/>
+      <outline description="Illuminating science" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Quanta Magazine" title="Quanta Magazine" type="rss" version="RSS" xmlUrl="https://www.quantamagazine.org/feed/"/>
+    </outline>
+    <outline description="" text="Space">
+      <outline description="  " encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text=" Space " title=" Space " type="rss" version="RSS" xmlUrl="https://www.space.com/feeds/all"/>
+    </outline>
+    <outline description="" text="Food">
+      <outline description="Google News" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="&quot;&quot;alternative protein&quot; AND Italy&quot; - Google News" title="&quot;&quot;alternative protein&quot; AND Italy&quot; - Google News" type="rss" version="RSS" xmlUrl="https://news.google.com/rss/search?q=%22alternative protein%22 AND Italy&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen"/>
+      <outline description="Plant-based and cultivated meat innovation | GFI" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Good Food Institute" title="The Good Food Institute" type="rss" version="RSS" xmlUrl="https://www.gfi.org/rss.xml"/>
+    </outline>
+    <outline description="" text="Alternative">
+      <outline description="Voltaire, edizione internazionale" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Rete Voltaire " title="Rete Voltaire " type="rss" version="RSS" xmlUrl="https://www.voltairenet.org/spip.php?page=backend&amp;id_secteur=1110&amp;lang=it"/>
+      <outline description="A Collection of Interesting, Important, and Controversial Perspectives Largely Excluded from the American Mainstream Media" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Unz Review: " title="The Unz Review: " type="rss" version="RSS" xmlUrl="https://www.unz.com/feed/"/>
+    </outline>
+    <outline description="" text="History &amp; Philosophy">
+      <outline description="Historian - Author - Critic - Blogger" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="ADAM TOOZE" title="ADAM TOOZE" type="rss" version="RSS" xmlUrl="https://adamtooze.com/feed/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Mario Del Pero" title="Mario Del Pero" type="rss" version="RSS" xmlUrl="https://mariodelpero.italianieuropei.it/feed/"/>
+      <outline description="Il blog di Franco Cardini" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Nessun dorma" title="Nessun dorma" type="rss" version="RSS" xmlUrl="https://www.francocardini.it/feed/"/>
+      <outline description="Politica e storia degli Stati Uniti" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Short Cuts America: il blog di Arnaldo Testi" title="Short Cuts America: il blog di Arnaldo Testi" type="rss" version="RSS" xmlUrl="https://shortcutsamerica.com/feed/"/>
+      <outline description="Giornalismo partecipativo - online dal 1995 SITO IN (LENTA) RISTRUTTURAZIONE" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Gennaro Carotenuto" title="Gennaro Carotenuto" type="rss" version="RSS" xmlUrl="https://feeds.feedburner.com/gc"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Peter Turchin" title="Peter Turchin" type="rss" version="RSS" xmlUrl="http://peterturchin.com/feed/"/>
+      <outline description="Just because everyone says something doesn't mean it's true" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Nec Pluribus Impar" title="Nec Pluribus Impar" type="rss" version="RSS" xmlUrl="https://necpluribusimpar.net/feed/"/>
+    </outline>
+    <outline description="" text="Economics &amp; Finance">
+      <outline description="Notizie di finanza etica ed economia sostenibile" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Valori" title="Valori" type="rss" version="RSS" xmlUrl="https://valori.it/rss"/>
+      <outline description="Il Sole 24 ORE - Finanza" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Il Sole 24 ORE - Finanza" title="Il Sole 24 ORE - Finanza" type="rss" version="RSS" xmlUrl="https://www.ilsole24ore.com/rss/finanza--quotate-italia.xml"/>
+      <outline description="Andrà molto peggio, prima di andare meglio" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Phastidio.net" title="Phastidio.net" type="rss" version="RSS" xmlUrl="https://phastidio.net/feed/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The world this week" title="The world this week" type="rss" version="RSS" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml"/>
+      <outline description="Economia, Finanza, Politica, Lavoro" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Lavoce.info" title="Lavoce.info" type="rss" version="RSS" xmlUrl="https://www.lavoce.info/feed/"/>
+      <outline description="" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Recent news" title="Recent news" type="rss" version="RSS" xmlUrl="https://cepr.org/rss/news"/>
+      <outline description="Rassegna di idee per capire la crisi" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Keynes blog" title="Keynes blog" type="rss" version="RSS" xmlUrl="https://keynesblog.com/feed/"/>
+      <outline description="" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Recent VoxEU Content" title="Recent VoxEU Content" type="rss" version="RSS" xmlUrl="https://cepr.org/rss/vox-content"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Emiliano Brancaccio" title="Emiliano Brancaccio" type="rss" version="RSS" xmlUrl="https://www.emilianobrancaccio.it/feed/"/>
+    </outline>
+    <outline description="" text="Germany">
+      <outline description="Deutsche Welle" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Deutsche Welle" title="Deutsche Welle" type="rss" version="RSS1" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
+      <outline description="Aktuelle Nachrichten - Artikel aus der Onlineausgabe" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="taz.de - Artikel aus der Onlineausgabe" title="taz.de - Artikel aus der Onlineausgabe" type="rss" version="RSS" xmlUrl="https://taz.de/!s=&amp;ExportStatus=Intern&amp;SuchRahmen=Online;rss/"/>
+      <outline description="Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="DER SPIEGEL - Schlagzeilen" title="DER SPIEGEL - Schlagzeilen" type="rss" version="RSS" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss"/>
+      <outline description="" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Telepolis" title="Telepolis" type="rss" version="ATOM" xmlUrl="http://www.heise.de/tp/news-atom.xml"/>
+      <outline description="Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="netzpolitik.org" title="netzpolitik.org" type="rss" version="RSS" xmlUrl="https://netzpolitik.org/feed"/>
+      <outline description=">" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Nachrichten" title="Nachrichten" type="rss" version="RSS" xmlUrl="https://www.nachrichtenleicht.de/nachrichtenleicht-nachrichten-100.rss"/>
+    </outline>
+    <outline description="" text="Europe">
+      <outline description="Quotidiano di politica internazionale" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="East Journal" title="East Journal" type="rss" version="RSS" xmlUrl="https://www.eastjournal.net/feed"/>
+    </outline>
+    <outline description="" text="Asia">
+      <outline description="Covering geo-political news and current affairs across Asia" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Asia Times" title="Asia Times" type="rss" version="RSS" xmlUrl="https://asiatimes.com/feed/"/>
+      <outline description="Andrew Batson's blog. Musings on China, books, economics, jazz, history, and other stuff of interest." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Tangled Woof" title="The Tangled Woof" type="rss" version="RSS" xmlUrl="https://andrewbatson.com/feed/"/>
+      <outline description="Quality China Content&#xa;" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Pekingnology" title="Pekingnology" type="rss" version="RSS" xmlUrl="https://pekingnology.substack.com/feed"/>
+      <outline description="Reporting Social Trends in China" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="What's on Weibo" title="What's on Weibo" type="rss" version="RSS" xmlUrl="https://www.whatsonweibo.com/feed/"/>
+      <outline description="Decoding China's Economic Arrival" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="MacroPolo" title="MacroPolo" type="rss" version="RSS" xmlUrl="https://macropolo.org/feed/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Expertise Asia" title="Expertise Asia" type="rss" version="RSS" xmlUrl="http://www.expertise-asia.com/feed"/>
+      <outline description="Follow China Files - Reports from Asia, filter it, and define how you want to receive the news (via Email, RSS, Telegram, WhatsApp etc.)" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="China Files - Reports from Asia" title="China Files - Reports from Asia" type="rss" version="RSS" xmlUrl="https://www.china-files.com/feed/"/>
+    </outline>
+    <outline description="" text="US, UK, World">
+      <outline description="BBC News - News Front Page" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="BBC News" title="BBC News" type="rss" version="RSS" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
+      <outline description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="CNN.com - RSS Channel - App International Edition" title="CNN.com - RSS Channel - App International Edition" type="rss" version="RSS" xmlUrl="http://rss.cnn.com/rss/edition.rss"/>
+      <outline description="European Politics, Policy, Government News" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="POLITICO" title="POLITICO" type="rss" version="RSS" xmlUrl="https://www.politico.eu/feed/"/>
+      <outline description="Le Monde.fr - 1er site d’information. Les articles du journal et toute l’actualité en continu : International, France, Société, Economie, Culture, Environnement, Blogs ..." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Le Monde.fr - Actualités et Infos en France et dans le monde" title="Le Monde.fr - Actualités et Infos en France et dans le monde" type="rss" version="RSS" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
+      <outline description="from The Center for Investigative Reporting" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Reveal" title="Reveal" type="rss" version="RSS" xmlUrl="https://www.revealnews.org/feed/"/>
+      <outline description="BBC News - World" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="BBC News" title="BBC News" type="rss" version="RSS" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="NYT > World News" title="NYT > World News" type="rss" version="RSS" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Vox -  All" title="Vox -  All" type="rss" version="ATOM" xmlUrl="https://www.vox.com/rss/index.xml"/>
+      <outline description="International Consortium of Investigative Journalists" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="ICIJ" title="ICIJ" type="rss" version="RSS" xmlUrl="https://www.icij.org/feed"/>
+      <outline description="FiveThirtyEight uses statistical analysis — hard numbers — to tell compelling stories about elections, politics and American society." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Features – FiveThirtyEight" title="Features – FiveThirtyEight" type="rss" version="RSS" xmlUrl="https://fivethirtyeight.com/features/feed/"/>
+      <outline description="Channel Description" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Everything" title="Everything" type="rss" version="RSS" xmlUrl="https://www.newyorker.com/feed/everything"/>
+      <outline description="Kill the Newsletter! Inbox:&#xa;          o6mon4s2n4fde60i@kill-the-newsletter.com →&#xa;          https://kill-the-newsletter.com/feeds/o6mon4s2n4fde60i.xml" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Browser" title="The Browser" type="rss" version="ATOM" xmlUrl="https://kill-the-newsletter.com/feeds/o6mon4s2n4fde60i.xml"/>
+    </outline>
+    <outline description="" text="Left">
+      <outline description="Informazione indipendente. Di movimento in movimento" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="DINAMOpress" title="DINAMOpress" type="rss" version="RSS" xmlUrl="https://www.dinamopress.it/feed/"/>
+      <outline description="Il blog di Wu Ming" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Giap" title="Giap" type="rss" version="RSS" xmlUrl="https://www.wumingfoundation.com/giap/feed/"/>
+      <outline description="humanity is underrated" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="spiked" title="spiked" type="rss" version="RSS" xmlUrl="https://www.spiked-online.com/feed/"/>
+      <outline description="Inventare il comune - Sovvertire il presente" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="EuroNomade" title="EuroNomade" type="rss" version="RSS" xmlUrl="http://www.euronomade.info/?feed=rss2"/>
+      <outline description="Rivista marxista, erede della versione cartacea &quot;Marxismo Oggi&quot; in pubblicazione fino al 2012." encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Marxismo Oggi | Nuova serie" title="Marxismo Oggi | Nuova serie" type="rss" version="RSS" xmlUrl="https://www.marxismo-oggi.it/?format=feed&amp;type=rss"/>
+      <outline description="Contro i Golia del nostro tempo" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="La Fionda" title="La Fionda" type="rss" version="RSS" xmlUrl="https://www.lafionda.org/feed/"/>
+      <outline description="Critica e sovversioni del presente" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Effimera" title="Effimera" type="rss" version="RSS" xmlUrl="http://effimera.org/feed/"/>
+    </outline>
+    <outline description="" text="Liberal">
+      <outline description="Sydney. London. Toronto." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Quillette" title="Quillette" type="rss" version="RSS" xmlUrl="https://quillette.com/articles/rss/"/>
+    </outline>
+    <outline description="" text="Right">
+      <outline description="Idee per il Libero Mercato" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Istituto Bruno Leoni" title="Istituto Bruno Leoni" type="rss" version="RSS" xmlUrl="http://www.brunoleoni.it/rss/rss_notifiche.xml"/>
+      <outline description="" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Strade - Home" title="Strade - Home" type="rss" version="RSS" xmlUrl="https://www.stradeonline.it/?format=feed&amp;type=rss"/>
+      <outline description="Il sito ufficiale di Nicola Porro" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Atlantico Quotidiano - Analisi di politica e affari internazionali" title="Atlantico Quotidiano - Analisi di politica e affari internazionali" type="rss" version="RSS" xmlUrl="http://www.atlanticoquotidiano.it/feed/"/>
+      <outline description="Associazione di cultura politica" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="LibertàEguale" title="LibertàEguale" type="rss" version="RSS" xmlUrl="http://www.libertaeguale.it/feed/"/>
+    </outline>
+    <outline description="" text="Politics">
+      <outline description="European Politics, Policy, Government News" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="POLITICO" title="POLITICO" type="rss" version="RSS" xmlUrl="https://www.politico.eu/rss"/>
+      <outline description="" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="RSS" title="RSS" type="rss" version="RSS" xmlUrl="https://www.iai.it/it/rss.xml"/>
+      <outline description="Ogni settimana il meglio dei giornali di tutto il mondo." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Internazionale" title="Internazionale" type="rss" version="RSS" xmlUrl="https://www.internazionale.it/sitemaps/rss.xml"/>
+      <outline description="Limes rivista italiana di geopolitica limes" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Limes - rivista italiana di geopolitica limes" title="Limes - rivista italiana di geopolitica limes" type="rss" version="RSS" xmlUrl="https://www.limesonline.com/rss"/>
+      <outline description="An independent quarterly magazine, publishing some of America's most exciting long-form political and cultural criticism since 1954." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Dissent MagazineDissent Magazine" title="Dissent MagazineDissent Magazine" type="rss" version="RSS" xmlUrl="https://www.dissentmagazine.org/feed"/>
+      <outline description="Responsible Statecraft" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Responsible Statecraft" title="Responsible Statecraft" type="rss" version="RSS" xmlUrl="https://responsiblestatecraft.org/feed/"/>
+      <outline description="Fondazione di cultura politica" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Italianieuropei" title="Italianieuropei" type="rss" version="RSS" xmlUrl="http://feeds.feedburner.com/italianieuropei"/>
+      <outline description="Un pensiero nuovo a sinistra" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Left" title="Left" type="rss" version="RSS" xmlUrl="https://left.it/feed/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Jacobin" title="Jacobin" type="rss" version="ATOM" xmlUrl="https://jacobinmag.com/feed/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Social Europe" title="Social Europe" type="rss" version="RSS" xmlUrl="https://www.socialeurope.eu/feed"/>
+      <outline description="" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Atlantic" title="The Atlantic" type="rss" version="ATOM" xmlUrl="https://www.theatlantic.com/feed/all/"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="The Intercept" title="The Intercept" type="rss" version="RSS" xmlUrl="https://theintercept.com/feed"/>
+      <outline description="What US political commentators are discussing online right now" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="memeorandum" title="memeorandum" type="rss" version="RSS" xmlUrl="https://www.memeorandum.com/feed.xml"/>
+      <outline description="The Harvard International Review is a quarterly magazine offering insight on international affairs from the perspectives of scholars, leaders, and policymakers." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Harvard International Review" title="Harvard International Review" type="rss" version="RSS" xmlUrl="https://hir.harvard.edu/rss/"/>
+      <outline description="Blog fondato da giornalisti de L’Unità: articoli e commenti su politica italiana ed estera, lavoro, ambiente, cultura, iniziative editoriali sulla storia della sinistra e del Pci." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Strisciarossa" title="Strisciarossa" type="rss" version="RSS" xmlUrl="http://www.strisciarossa.it/feed/"/>
+    </outline>
+    <outline description="" text="Blogs">
+      <outline description="Latest gwern.net updates, interesting links, and reviews" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Gwern.net Newsletter" title="Gwern.net Newsletter" type="rss" version="RSS" xmlUrl="https://gwern.substack.com/feed/"/>
+      <outline description="https://tim.blog/" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="https://tim.blog/" title="https://tim.blog/" type="rss" version="RSS" xmlUrl="http://feeds.feedburner.com/TimFerriss"/>
+      <outline description="Scraped feed provided by aaronsw.com" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Paul Graham: Essays" title="Paul Graham: Essays" type="rss" version="RSS" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
+      <outline description="Recent content on Bert Hubert's writings" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Bert Hubert's writings" title="Bert Hubert's writings" type="rss" version="RSS" xmlUrl="https://berthub.eu/articles/index.xml"/>
+      <outline description="Innovation and Entrepreneurship" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Steve Blank" title="Steve Blank" type="rss" version="RSS" xmlUrl="https://steveblank.com/feed/"/>
+      <outline description="Experiments in Permissionless Entrepreneurship" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Jakob Greenfeld" title="Jakob Greenfeld" type="rss" version="ATOM" xmlUrl="https://jakobgreenfeld.com/feed"/>
+      <outline description="" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Derek Sivers blog" title="Derek Sivers blog" type="rss" version="ATOM" xmlUrl="https://sive.rs/en.atom"/>
+      <outline description="" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="benkuhn.net" title="benkuhn.net" type="rss" version="ATOM" xmlUrl="https://www.benkuhn.net/index.xml"/>
+      <outline description="Learn faster, achieve more" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Scott H Young" title="Scott H Young" type="rss" version="RSS" xmlUrl="https://www.scotthyoung.com/blog/rss"/>
+      <outline description="Civilization Emerging" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Daniel Schmachtenberger" title="Daniel Schmachtenberger" type="rss" version="RSS" xmlUrl="https://civilizationemerging.com/rss"/>
+      <outline description="P(A|B) = [P(A)*P(B|A)]/P(B), all the rest is commentary." encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Astral Codex Ten" title="Astral Codex Ten" type="rss" version="RSS" xmlUrl="https://astralcodexten.substack.com/feed"/>
+      <outline description="Kill the Newsletter! Inbox:&#xa;          73qdnnvr6h6mnex4@kill-the-newsletter.com →&#xa;          https://kill-the-newsletter.com/feeds/73qdnnvr6h6mnex4.xml" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Calvin Rosser" title="Calvin Rosser" type="rss" version="ATOM" xmlUrl="https://kill-the-newsletter.com/feeds/73qdnnvr6h6mnex4.xml"/>
+    </outline>
+    <outline description="" text="Technology">
+      <outline description="Channel Description" encoding="utf-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Feed: All Latest" title="Feed: All Latest" type="rss" version="RSS" xmlUrl="https://www.wired.com/feed"/>
+    </outline>
+    <outline description="" text="Climate Change">
+      <outline description="Latest news and research from Nature.com on the topic of Climate-change mitigation" encoding="UTF-8" rssguard:postProcess="" rssguard:xmlUrlType="0" text="Climate-change mitigation : nature.com subject feeds" title="Climate-change mitigation : nature.com subject feeds" type="rss" version="RSS" xmlUrl="https://www.nature.com/subjects/climate-change-mitigation.rss"/>
+    </outline>
+  </body>
 </opml>
